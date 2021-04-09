@@ -33,7 +33,8 @@ function App() {
       <div>todo</div>
     )}
     {state.status === 'image-sending-failure' && (
-      <div>todo</div>
+      //TODO - Utworzenie komponentu wyświetlającego błędy
+      <div>{state.data}</div>
     )}
     {state.status === 'additive-data-received' && (
       <div>todo</div>
