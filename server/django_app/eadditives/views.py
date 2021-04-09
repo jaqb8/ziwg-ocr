@@ -6,3 +6,4 @@ from .serializers import EadditivesSerializer
 class EadditivesViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Eadditives.objects.all()
     serializer_class = EadditivesSerializer
+    filterset_fields = ['id', 'code', 'name', 'description']
