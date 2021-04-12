@@ -15,29 +15,50 @@ const UploadButton = (props: Props) => {
     hiddenFileInput?.current?.click();
   };
 
+  const checkIfSupportedType = (fileList: FileList) => {
+
+    const types = ['image/png', 'image/jpeg']
+
+    if (types.every(type => fileList![0].type !== type)) {
+      return false;
+    }
+    else{
+      return true;
+    }
+
+  }
+
   const handleChange = (fileList: FileList | null) => {
 
-    var formData = new FormData();
+    if(fileList!.length > 1){
+      dispatch({type: 'image-sending-failure', error: 'Too many images selected'})
+    }
+    else if(!checkIfSupportedType(fileList!)){
+      dispatch({type: 'image-sending-failure', error: 'Image type not supported'})
+    }
+    else{
 
-    formData.append('image', fileList![0]);
+      var formData = new FormData();
 
-    axios.post('http://127.0.0.1:5000/test', formData, {
-      headers: {
-        'Content-Type': 'multipart/form-data'
-      }
-    })
-        .then(response => dispatch({type: 'image-sent', response: response.data}))
-        .catch(error => {
-            dispatch({ type: 'image-sending-failure', error: error.message });
-        });
-    
+      formData.append('image', fileList![0]);
+
+      axios.post('http://127.0.0.1:5000/test', formData, {
+        headers: {
+          'Content-Type': 'multipart/form-data'
+        }
+      })
+          .then(response => dispatch({type: 'image-sent', response: response.data}))
+          .catch(error => {
+              dispatch({ type: 'image-sending-failure', error: error.message });
+          });
+        }
   };
 
   return (
     <>
     <GenericButton text='Upload an image' iconClass='fas fa-upload' onClick={onClick}/>
     <div>
-        <input type="file" ref={hiddenFileInput} onChange={ (e) => handleChange(e.target.files) } style={{display: 'none'}}/>
+        <input type="file" ref={hiddenFileInput} onChange={ (e) => handleChange(e.target.files) } style={{display: 'none'}} accept="image/*"/>
     </div>
     </>
   );

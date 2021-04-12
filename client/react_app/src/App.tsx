@@ -1,6 +1,7 @@
 import Decription from './components/Decription';
 import CameraButton from './components/CameraButton';
 import UploadButton from './components/UploadButton';
+import ReturnButton from './components/ReturnButton';
 import './styles.css';
 import { useReducer } from 'react';
 import MyContext from './helpers/context';
@@ -16,7 +17,7 @@ const testObject = {
   code: 803,
   name: 'glutaminian sodu',
   description:
-    'it is so bad that your eyes will fall off your skull and then you will be hungry as fuck',
+    'it is so bad that your eyes will fall off your skull and then you will be very hungry',
 };
 
 function App() {
@@ -37,12 +38,17 @@ function App() {
             </>
           )}
           {state.status === 'image-sent' && <div>todo</div>}
-          {state.status === 'image-sending-failure' && <div>todo</div>}
+          {state.status === 'image-sending-failure' && (
+            <>
+              <div>{state.data}</div>
+              <ReturnButton />
+            </>
+          )}
           {state.status === 'additive-data-received' && (
             <>
               <EAdditiveList list={[testObject, testObject]} />
+              <ReturnButton />
             </>
-            // TODO: add 'go back' button 
           )}
           <div />
         </div>
