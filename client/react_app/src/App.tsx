@@ -7,21 +7,35 @@ import { useReducer } from 'react';
 import MyContext from './helpers/context';
 import reducer from './helpers/reducer';
 import EAdditiveList from './components/EAdditiveList';
+import GenericButton from './components/GenericButton';
 
 const initialState = {
-  status: 'additive-data-received', //'start',
+  status: 'start',
   data: null,
 };
 
 const testObject = {
-  code: 803,
-  name: 'glutaminian sodu',
+  code: 621,
+  name: 'Monosodium glutamate',
   description:
-    'it is so bad that your eyes will fall off your skull and then you will be very hungry',
+    'It is used in cooking as a flavor enhancer with an umami taste that intensifies the meaty, savory flavor of food, as naturally occurring glutamate does in foods such as stews and meat soups.',
 };
 
 function App() {
   const [state, dispatch] = useReducer(reducer, initialState);
+
+  const TestButton = () => (
+    <>
+      <GenericButton
+        text='Simulate receiving data'
+        iconClass=''
+        onClick={() => {
+          dispatch({ type: 'additive-data-received', response: [] });
+        }}
+      />
+      <div className='m-1' />
+    </>
+  );
 
   return (
     <MyContext.Provider value={{ state, dispatch }}>
@@ -37,11 +51,26 @@ function App() {
               <UploadButton />
             </>
           )}
-          {state.status === 'image-sent' && <div>todo</div>}
+          {state.status === 'image-sent' && (
+            <>
+              <div>Loading...</div>
+              {/* test button - TODO remove it after the presentation */}
+              <div className='d-flex flex-column'>
+                <TestButton />
+                <ReturnButton />
+              </div>
+              {/* <ReturnButton /> */}
+            </>
+          )}
           {state.status === 'image-sending-failure' && (
             <>
               <div>{state.data}</div>
-              <ReturnButton />
+              {/* test button - TODO remove it after the presentation */}
+              <div className='d-flex flex-column'>
+                <TestButton />
+                <ReturnButton />
+              </div>
+              {/* <ReturnButton /> */}
             </>
           )}
           {state.status === 'additive-data-received' && (

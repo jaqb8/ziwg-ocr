@@ -7,7 +7,7 @@ interface Props {}
 
 const UploadButton = (props: Props) => {
 
-  const { state, dispatch } = useContext(MyContext);
+  const { dispatch } = useContext(MyContext);
 
   const hiddenFileInput = React.useRef<HTMLInputElement>(null);
 
