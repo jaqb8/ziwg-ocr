@@ -6,14 +6,21 @@ import './styles.css';
 import { useReducer } from 'react';
 import MyContext from './helpers/context';
 import reducer from './helpers/reducer';
+import EAdditiveList from './components/EAdditiveList';
 
 const initialState = {
-  status: 'start',
-  data: null
+  status: 'additive-data-received', //'start',
+  data: null,
+};
+
+const testObject = {
+  code: 803,
+  name: 'glutaminian sodu',
+  description:
+    'it is so bad that your eyes will fall off your skull and then you will be hungry as fuck',
 };
 
 function App() {
-
   const [state, dispatch] = useReducer(reducer, initialState);
 
   return (
