@@ -5,8 +5,8 @@ import ReturnButton from './components/ReturnButton';
 import './styles.css';
 import { useReducer } from 'react';
 
-import MyContext from './helpers/context';
-import reducer from './helpers/reducer';
+import reducer from './state_management/reducer';
+import ContextProvider from './state_management/provider'
 import EAdditiveList from './components/EAdditiveList';
 
 const initialState = {
@@ -48,7 +48,9 @@ function App() {
 
         )}
         {state.status === 'additive-data-received' && (
-          <div>todo</div>
+          <>
+          <EAdditiveList list={[testObject, testObject]} />
+          </>
         )}
         <div />
       </div>
