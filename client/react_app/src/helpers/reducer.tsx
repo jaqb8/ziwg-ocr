@@ -4,6 +4,7 @@ type State = {
   }
 
 type Action =
+ | { type: 'start', respone: []}
  | { type: 'image-sent', response: [] }
  | { type: 'image-sending-failure', error: string }
  | { type: 'additive-data-received', response: [] }
@@ -11,6 +12,9 @@ type Action =
 function reducer(state: State, action: Action) : State {
 
   switch(action.type){
+    case 'start':
+      return {status: 'start', data: null}
+
     case 'image-sent':
       return { status: 'image-sent', data: action.response }
 
