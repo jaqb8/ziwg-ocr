@@ -1,5 +1,5 @@
 import React, { useContext }  from 'react';
-import MyContext from '../helpers/context';
+import MyContext from '../state_management/context';
 import GenericButton from './GenericButton';
 
 interface Props {}
