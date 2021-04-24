@@ -1,0 +1,4 @@
+ABSOLUTE_PATH_TO_TESSERACT_EXECUTABLE = \
+    r'C:\...\Tesseract-OCR\tesseract.exe'
+# insert path to tesseract executable file
+# and then create a copy of this file named 'local_settings.py'
