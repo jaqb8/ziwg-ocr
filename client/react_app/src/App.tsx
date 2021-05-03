@@ -4,13 +4,14 @@ import UploadButton from './components/UploadButton';
 import ReturnButton from './components/ReturnButton';
 import './styles.css';
 import { useReducer } from 'react';
+import ErrorModal from './components/ErrorModal';
 
 import reducer from './state_management/reducer';
 import ContextProvider from './state_management/provider'
 import EAdditiveList from './components/EAdditiveList';
 
 const initialState = {
-  status: 'additive-data-received', //'start',
+  status: 'start', //'start',
   data: null,
 };
 
@@ -41,11 +42,11 @@ function App() {
           <div>todo</div>
         )}
         {state.status === 'image-sending-failure' && (
-          <>
-          <div>{state.data}</div>
-            <ReturnButton/>
+          <>        
+            <CameraButton />
+            <UploadButton />
+            <ErrorModal/>
           </>
-
         )}
         {state.status === 'additive-data-received' && (
           <>
