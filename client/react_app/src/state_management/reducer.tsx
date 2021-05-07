@@ -1,32 +1,21 @@
-type State = {
-    status: string,
-    data: any,
-  }
+import { Action, State } from './types';
 
-type Action =
- | { type: 'start', respone: []}
- | { type: 'image-sent', response: [] }
- | { type: 'image-sending-failure', error: string }
- | { type: 'additive-data-received', response: [] }
-
-function reducer(state: State, action: Action) : State {
-
-  switch(action.type){
+function reducer(state: State, action: Action): State {
+  switch (action.type) {
     case 'start':
-      return {status: 'start', data: null}
+      return { status: 'start' };
 
-    case 'image-sent':
-      return { status: 'image-sent', data: action.response }
+    case 'start-loading':
+      return { status: 'loading' };
 
     case 'image-sending-failure':
-      return { status: 'image-sending-failure', data: action.error  }
+      return { status: 'error', error: action.error };
 
     case 'additive-data-received':
-      return { status: 'additive-data-received', data: action.response }
+      return { status: 'displaying-data', data: action.response };
 
     default:
       return state;
-
   }
 }
 
