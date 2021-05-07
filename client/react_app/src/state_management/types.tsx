@@ -1,6 +1,7 @@
 export type State = {
   status:
     | 'start'
+    | 'webcam-page'
     | 'loading'
     | 'error'
     | 'displaying-data';
@@ -10,6 +11,7 @@ export type State = {
 
 export type Action =
   | { type: 'start' }
+  | { type: 'open-webcam' }
   | { type: 'start-loading' }
   | { type: 'image-sending-failure'; error: string }
   | { type: 'additive-data-received'; response: [] };

@@ -6,6 +6,7 @@ import './styles.css';
 import { MyContext } from './state_management/context';
 import EAdditiveList from './components/EAdditiveList';
 import { useContext } from 'react';
+import WebcamPage from './components/WebcamPage';
 
 const testObject = {
   code: 803,
@@ -28,6 +29,9 @@ function App() {
             <CameraButton />
             <UploadButton />
           </>
+        )}
+        {state.status === 'webcam-page' && (
+          <WebcamPage/>
         )}
         {state.status === 'loading' && <div>Loading...</div>}
         {state.status === 'error' && (

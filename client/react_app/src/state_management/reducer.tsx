@@ -5,6 +5,9 @@ function reducer(state: State, action: Action): State {
     case 'start':
       return { status: 'start' };
 
+    case 'open-webcam':
+      return { status: 'webcam-page' };
+      
     case 'start-loading':
       return { status: 'loading' };
 
