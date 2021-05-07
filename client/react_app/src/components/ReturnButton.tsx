@@ -9,7 +9,7 @@ const ReturnButton = (props: Props) => {
 
   const onClick = () => dispatch({ type: 'start' });
   return (
-    <GenericButton text='Go back' iconClass='fas fa-redo' onClick={onClick} />
+    <GenericButton text='Go back' iconClass='fas fa-undo' onClick={onClick} />
   );
 };
 
