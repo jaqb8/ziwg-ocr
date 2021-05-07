@@ -7,7 +7,7 @@ import { Action, State } from './types';
 type ContextState = {
   state: State;
   dispatch: Dispatch<Action>;
-  postPicture: (files: FileList) => void;
+  postImage: (files: FileList) => void;
 };
 
 const initialState = {
@@ -17,7 +17,7 @@ const initialState = {
 const initialContextState = {
   state: initialState,
   dispatch: () => {},
-  postPicture: () => {},
+  postImage: () => {},
 };
 
 export const MyContext = createContext<ContextState>(initialContextState);
@@ -39,7 +39,7 @@ export const ContextProvider = ({ children }: Props) => {
     }
   };
 
-  const postPicture = async (fileList: FileList) => {
+  const postImage = async (fileList: FileList) => {
     if (fileList!.length > 1) {
       dispatch({
         type: 'image-sending-failure',
@@ -54,7 +54,7 @@ export const ContextProvider = ({ children }: Props) => {
       dispatch({ type: 'image-sent' })
       
       var formData = new FormData();
-      formData.append('picture', fileList![0]);
+      formData.append('image', fileList![0]);
       await axios
         .post('http://127.0.0.1:8000/photo-process/', formData, {
           headers: {
@@ -75,7 +75,7 @@ export const ContextProvider = ({ children }: Props) => {
       value={{
         state,
         dispatch,
-        postPicture,
+        postImage: postImage,
       }}
     >
       {children}
