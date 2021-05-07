@@ -16,6 +16,8 @@ const EAdditiveList = ({ list }: Props) => {
             <th>E number</th>
             <th>Substance name</th>
             <th>Description</th>
+            <th>Eadditive type</th>
+            <th>Harmfulness</th>
           </tr>
         </thead>
         <tbody>
