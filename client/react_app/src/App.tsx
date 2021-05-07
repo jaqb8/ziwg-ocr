@@ -8,6 +8,7 @@ import EAdditiveList from './components/EAdditiveList';
 import { useContext } from 'react';
 
 const testObject = {
+  id: 1,
   code: 803,
   name: 'An additive name',
   description: 'some description of E-additive',
@@ -38,7 +39,7 @@ function App() {
         )}
         {state.status === 'displaying-data' && (
           <>
-            <EAdditiveList list={[testObject, testObject]} />
+            <EAdditiveList list={state.data.eadditives} />
             <ReturnButton />
           </>
         )}

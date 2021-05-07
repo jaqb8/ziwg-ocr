@@ -20,7 +20,7 @@ const EAdditiveList = ({ list }: Props) => {
         </thead>
         <tbody>
           {list.map((dataItem) => (
-            <EAdditiveItem data={dataItem} />
+            <EAdditiveItem key={dataItem.id} data={dataItem} />
           ))}
         </tbody>
       </Table>
