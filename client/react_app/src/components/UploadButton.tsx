@@ -1,13 +1,12 @@
-import axios from 'axios';
 import React, { useContext } from 'react';
-import MyContext from '../state_management/context';
+import {MyContext} from '../state_management/context';
 import GenericButton from './GenericButton';
 
 interface Props {}
 
 const UploadButton = (props: Props) => {
 
-  const { state, dispatch, postPicture } = useContext(MyContext);
+  const { postPicture } = useContext(MyContext);
 
   const hiddenFileInput = React.useRef<HTMLInputElement>(null);
 
