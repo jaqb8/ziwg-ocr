@@ -18,7 +18,7 @@ const UploadButton = (props: Props) => {
     <>
     <GenericButton text='Upload an image' iconClass='fas fa-upload' onClick={onClick}/>
     <div>
-        <input type="file" ref={hiddenFileInput} onChange={ (e) => postPicture(e.target.files) } style={{display: 'none'}} accept="image/*"/>
+        <input type="file" ref={hiddenFileInput} onChange={ (e) => postPicture(e.target.files as FileList) } style={{display: 'none'}} accept="image/*"/>
     </div>
     </>
   );

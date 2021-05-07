@@ -5,7 +5,6 @@ import ReturnButton from './components/ReturnButton';
 import './styles.css';
 import { MyContext } from './state_management/context';
 import EAdditiveList from './components/EAdditiveList';
-
 import { useContext } from 'react';
 
 
@@ -32,10 +31,10 @@ function App() {
               <UploadButton />
             </>
           )}
-          {state.status === 'image-sent' && <div>todo</div>}
+          {state.status === 'image-sent' && <div>Loading...</div>}
           {state.status === 'image-sending-failure' && (
             <>
-              <div>{state.data}</div>
+              <div>{state.error}</div>
               <ReturnButton />
             </>
           )}

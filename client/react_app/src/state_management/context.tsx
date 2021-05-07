@@ -1,26 +1,26 @@
-import { createContext } from 'react';
+import { Dispatch, createContext } from 'react';
 import axios from 'axios';
 import { useReducer } from 'react';
 import reducer from './reducer';
+import { Action, State } from './types';
 
-type contextState = {
-  state: { status: string; data: any };
-  dispatch: any;
-  postPicture: any;
+type ContextState = {
+  state: State;
+  dispatch: Dispatch<Action>;
+  postPicture: (files: FileList) => void;
 };
 
 const initialState = {
   status: 'start',
-  data: null,
 };
 
 const initialContextState = {
-  state: { status: 'start', data: null },
-  dispatch: null,
-  postPicture: null,
+  state: initialState,
+  dispatch: () => {},
+  postPicture: () => {},
 };
 
-export const MyContext = createContext<contextState>(initialContextState);
+export const MyContext = createContext<ContextState>(initialContextState);
 
 type Props = {
   children: React.ReactNode;
@@ -51,10 +51,10 @@ export const ContextProvider = ({ children }: Props) => {
         error: 'Image type not supported',
       });
     } else {
+      dispatch({ type: 'image-sent' })
+      
       var formData = new FormData();
-
       formData.append('picture', fileList![0]);
-
       await axios
         .post('http://127.0.0.1:8000/photo-process/', formData, {
           headers: {
@@ -62,7 +62,7 @@ export const ContextProvider = ({ children }: Props) => {
           },
         })
         .then((response) =>
-          dispatch({ type: 'image-sent', response: response.data })
+          dispatch({ type: 'additive-data-received', response: response.data })
         )
         .catch((error) => {
           dispatch({ type: 'image-sending-failure', error: error.message });
