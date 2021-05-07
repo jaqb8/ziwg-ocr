@@ -13,7 +13,7 @@ type ContextState = {
 
 const initialState = {
   status: 'start',
-};
+} as State;
 
 const initialContextState = {
   state: initialState,

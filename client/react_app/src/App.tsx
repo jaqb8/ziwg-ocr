@@ -9,9 +9,8 @@ import { useContext } from 'react';
 
 const testObject = {
   code: 803,
-  name: 'glutaminian sodu',
-  description:
-    'it is so bad that your eyes will fall off your skull and then you will be very hungry',
+  name: 'An additive name',
+  description: 'some description of E-additive',
 };
 
 function App() {
