@@ -29,14 +29,14 @@ function App() {
             <UploadButton />
           </>
         )}
-        {state.status === 'image-sent' && <div>Loading...</div>}
-        {state.status === 'image-sending-failure' && (
+        {state.status === 'loading' && <div>Loading...</div>}
+        {state.status === 'error' && (
           <>
             <div>{state.error}</div>
             <ReturnButton />
           </>
         )}
-        {state.status === 'additive-data-received' && (
+        {state.status === 'displaying-data' && (
           <>
             <EAdditiveList list={[testObject, testObject]} />
             <ReturnButton />

@@ -24,7 +24,7 @@ const postImage = async (fileList: FileList, dispatch: Dispatch<Action>) => {
       error: 'Image type not supported',
     });
   } else {
-    dispatch({ type: 'image-sent' });
+    dispatch({ type: 'start-loading' });
 
     var formData = new FormData();
     formData.append('image', fileList![0]);

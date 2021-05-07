@@ -5,14 +5,14 @@ function reducer(state: State, action: Action): State {
     case 'start':
       return { status: 'start' };
 
-    case 'image-sent':
-      return { status: 'image-sent' };
+    case 'start-loading':
+      return { status: 'loading' };
 
     case 'image-sending-failure':
-      return { status: 'image-sending-failure', error: action.error };
+      return { status: 'error', error: action.error };
 
     case 'additive-data-received':
-      return { status: 'additive-data-received', data: action.response };
+      return { status: 'displaying-data', data: action.response };
 
     default:
       return state;
