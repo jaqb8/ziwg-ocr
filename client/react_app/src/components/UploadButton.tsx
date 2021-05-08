@@ -1,13 +1,12 @@
-import axios from 'axios';
 import React, { useContext } from 'react';
-import MyContext from '../state_management/context';
+import {MyContext} from '../state_management/context';
 import GenericButton from './GenericButton';
 
 interface Props {}
 
 const UploadButton = (props: Props) => {
 
-  const { state, dispatch, postPicture } = useContext(MyContext);
+  const { dispatch, postImage } = useContext(MyContext);
 
   const hiddenFileInput = React.useRef<HTMLInputElement>(null);
 
@@ -19,7 +18,7 @@ const UploadButton = (props: Props) => {
     <>
     <GenericButton text='Upload an image' iconClass='fas fa-upload' onClick={onClick}/>
     <div>
-        <input type="file" ref={hiddenFileInput} onChange={ (e) => postPicture(e.target.files) } style={{display: 'none'}} accept="image/*"/>
+        <input type="file" ref={hiddenFileInput} onChange={ (e) => postImage(e.target.files as FileList, dispatch) } style={{display: 'none'}} accept="image/*"/>
     </div>
     </>
   );
