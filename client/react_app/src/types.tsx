@@ -7,21 +7,19 @@ export interface EAdditiveData {
   harmfulness: HarmfulnessLevel;
 }
 
-export enum AdditiveType {
-  Colours = 'COLOURS',
-  Preservatives = 'PRESERVATIVES',
-  Antioxidants = 'ANTIOXIDANTS',
-  Thickeners = 'THICKENERS',
-  AcidityRegulators = 'ACIDITY_REGULATORS',
-  FlavourEnhancers = 'FLAVOUR_ENHANCERS',
-  Sweeteners = 'SWEETENERS',
-  AdditinalChemicals = 'ADDITIONAL_CHEMICALS',
-  NoType = 'NO_TYPE',
-}
+export type AdditiveType =
+  | 'COLOURS'
+  | 'PRESERVATIVES'
+  | 'ANTIOXIDANTS'
+  | 'THICKENERS'
+  | 'ACIDITY_REGULATORS'
+  | 'FLAVOUR_ENHANCERS'
+  | 'SWEETENERS'
+  | 'ADDITIONAL_CHEMICALS'
+  | 'NO_TYPE';
 
-export enum HarmfulnessLevel {
-  Safe = 'SAFE',
-  PotentiallyDangerous = 'POTENTIALLY_DANGEROUS',
-  Dangerous = 'DANGEROUS',
-  NoInfo = 'NO_INFO',
-}
+export type HarmfulnessLevel =
+  | 'SAFE'
+  | 'POTENTIALLY_DANGEROUS'
+  | 'DANGEROUS'
+  | 'NO_INFO';

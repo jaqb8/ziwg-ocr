@@ -10,13 +10,13 @@ const EAdditiveItem = ({ data }: Props) => {
 
   const getBadgeColor = (harmfulnessLevel: HarmfulnessLevel): string => {
     let color: string = '';
-    if (harmfulnessLevel === HarmfulnessLevel.Safe) {
+    if (harmfulnessLevel === 'SAFE') {
       color = 'success';
-    } else if (harmfulnessLevel === HarmfulnessLevel.PotentiallyDangerous) {
+    } else if (harmfulnessLevel === 'POTENTIALLY_DANGEROUS') {
       color = 'warning';
-    } else if (harmfulnessLevel === HarmfulnessLevel.Dangerous) {
+    } else if (harmfulnessLevel === 'DANGEROUS') {
       color = 'danger';
-    } else if (harmfulnessLevel === HarmfulnessLevel.NoInfo) {
+    } else if (harmfulnessLevel === 'NO_INFO') {
       color = 'light';
     }
     return color;
