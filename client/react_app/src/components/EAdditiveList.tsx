@@ -1,5 +1,3 @@
-import React from 'react';
-import { Table } from 'react-bootstrap';
 import { EAdditiveData } from '../types';
 import EAdditiveItem from './EAdditiveItem';
 
@@ -9,24 +7,15 @@ interface Props {
 
 const EAdditiveList = ({ list }: Props) => {
   return (
-    <div>
-      <Table bordered hover>
-        <thead>
-          <tr>
-            <th>E number</th>
-            <th>Substance name</th>
-            <th>Description</th>
-            <th>Eadditive type</th>
-            <th>Harmfulness</th>
-          </tr>
-        </thead>
-        <tbody>
+    <>
+      <div className='my-5'>
+        <div className='list-group'>
           {list.map((dataItem) => (
             <EAdditiveItem key={dataItem.id} data={dataItem} />
           ))}
-        </tbody>
-      </Table>
-    </div>
+        </div>
+      </div>
+    </>
   );
 };
 

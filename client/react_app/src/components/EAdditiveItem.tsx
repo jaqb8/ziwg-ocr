@@ -23,17 +23,19 @@ const EAdditiveItem = ({ data }: Props) => {
   };
 
   return (
-    <tr>
-      <td>E{code}</td>
-      <td>{name}</td>
-      <td>{description}</td>
-      <td>{additive_type}</td>
-      <td>
-        <span className={`badge bg-${getBadgeColor(harmfulness)}`}>
-          {harmfulness}
-        </span>
-      </td>
-    </tr>
+    <div className='list-group-item list-group-item-action flex-column align-items-start'>
+      <div className='d-flex w-100 justify-content-between'>
+        <h5 className='mb-1'>E{code}</h5>
+        <h5>
+          <span className={`badge bg-${getBadgeColor(harmfulness)}`}>
+            {harmfulness}
+          </span>
+        </h5>
+      </div>
+      <p className='mb-1 h4'>{name}</p>
+      <p className='mb-3'>{additive_type}</p>
+      <small>{description}</small>
+    </div>
   );
 };
 
