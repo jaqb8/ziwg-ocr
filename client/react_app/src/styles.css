@@ -15,3 +15,7 @@
 .button-size {
   width: min(85vw, 450px);
 }
+
+.alert-danger {
+  margin-bottom: 0rem;
+}
