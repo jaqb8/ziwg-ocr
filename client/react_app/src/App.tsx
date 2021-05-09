@@ -7,12 +7,6 @@ import { MyContext } from './state_management/context';
 import EAdditiveList from './components/EAdditiveList';
 import { useContext } from 'react';
 
-const testObject = {
-  code: 803,
-  name: 'An additive name',
-  description: 'some description of E-additive',
-};
-
 function App() {
   const { state } = useContext(MyContext);
 
@@ -38,7 +32,7 @@ function App() {
         )}
         {state.status === 'displaying-data' && (
           <>
-            <EAdditiveList list={[testObject, testObject]} />
+            <EAdditiveList list={state.data.eadditives} />
             <ReturnButton />
           </>
         )}

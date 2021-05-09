@@ -8,7 +8,7 @@ from .ocr.ocr_service import EadditivesRecognizer
 class EadditivesViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Eadditives.objects.all()
     serializer_class = EadditivesSerializer
-    filterset_fields = ['id', 'code', 'name', 'description']
+    filterset_fields = ['id', 'code', 'name', 'description', 'additive_type', 'harmfulness']
 
 
 class PhotoProcessView(viewsets.ViewSet):
