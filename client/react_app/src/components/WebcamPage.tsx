@@ -1,9 +1,10 @@
-import { useState, useRef, useCallback, useEffect } from 'react';
+import { useState, useRef, useCallback, useEffect, useContext } from 'react';
 import { Button } from 'react-bootstrap';
 import Webcam from 'react-webcam';
 import GenericButton from './GenericButton';
 import ReturnButton from './ReturnButton';
-import postImage from '../state_management/methods/postImage';
+import { MyContext } from '../state_management/context';
+import { response } from './response';
 
 interface Props {
   setInstruction: (newInstruction: string) => void;
@@ -11,6 +12,8 @@ interface Props {
 
 const WebcamPage = ({ setInstruction }: Props) => {
   const webcamRef = useRef<Webcam>(null);
+
+  const { dispatch } = useContext(MyContext);
 
   const [imageSource, setImageSource] = useState<string>('');
   const [isInput, setIsInput] = useState<boolean>(false);
@@ -23,8 +26,17 @@ const WebcamPage = ({ setInstruction }: Props) => {
   }, [webcamRef, setImageSource]);
 
   const reset = () => setImageSource('');
-  const post = () => {
-    // postImage();
+
+  function sleep(ms: number) {
+    return new Promise((resolve) => setTimeout(resolve, ms));
+  }
+  const post = async () => {
+    dispatch({ type: 'start-loading' });
+    await sleep(1560);
+    dispatch({
+      type: 'additive-data-received',
+      response: response,
+    });
   };
 
   const noCameraInput =
