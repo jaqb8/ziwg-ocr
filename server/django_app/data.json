@@ -3,2196 +3,3294 @@
         "code": "100",
         "last_update": "2013-10-07T19:42:20+0300",
         "name": "Curcuma (turmeric)",
-        "url": "http://e-additives.herokuapp.com/additives/100"
+        "url": "http://e-additives.herokuapp.com/additives/100",
+        "type": "COLOURS",
+        "description": "Naturally occurring orange/yellow colour, extracted from the spice turmeric",
+        "harmfulness": "SAFE"
     },
     {
         "code": "101",
         "last_update": "2013-10-07T19:42:20+0300",
         "name": "Riboflavin (Vitamin B2)",
-        "url": "http://e-additives.herokuapp.com/additives/101"
+        "url": "http://e-additives.herokuapp.com/additives/101",
+        "type": "COLOURS",
+        "description": "Naturally occurring B group vitamin usually obtained from yeast or produced synthetically.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "101a",
         "last_update": "2013-10-07T19:42:20+0300",
         "name": "Riboflavin-5'-Phosphate",
-        "url": "http://e-additives.herokuapp.com/additives/101a"
+        "url": "http://e-additives.herokuapp.com/additives/101a",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "102",
         "last_update": "2013-10-07T19:42:20+0300",
         "name": "Tartrazine (FD&C Yellow 5)",
-        "url": "http://e-additives.herokuapp.com/additives/102"
+        "url": "http://e-additives.herokuapp.com/additives/102",
+        "type": "COLOURS",
+        "description": "Widely used yellow/orange colour",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "103",
         "last_update": "2013-10-07T19:42:20+0300",
         "name": "Chrysoine resorcinol",
-        "url": "http://e-additives.herokuapp.com/additives/103"
+        "url": "http://e-additives.herokuapp.com/additives/103",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "104",
         "last_update": "2013-10-07T19:42:20+0300",
         "name": "Quinoline Yellow",
-        "url": "http://e-additives.herokuapp.com/additives/104"
+        "url": "http://e-additives.herokuapp.com/additives/104",
+        "type": "COLOURS",
+        "description": "A synthetic coal tar dye, greenish yellow in colour",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "105",
         "last_update": "2013-10-07T19:42:20+0300",
         "name": "Fast Yellow AB",
-        "url": "http://e-additives.herokuapp.com/additives/105"
+        "url": "http://e-additives.herokuapp.com/additives/105",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "106",
         "last_update": "2013-10-07T19:42:20+0300",
         "name": "Riboflavin-5-Sodium Phosphate",
-        "url": "http://e-additives.herokuapp.com/additives/106"
+        "url": "http://e-additives.herokuapp.com/additives/106",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "107",
         "last_update": "2013-10-07T19:42:20+0300",
         "name": "Yellow 2G",
-        "url": "http://e-additives.herokuapp.com/additives/107"
+        "url": "http://e-additives.herokuapp.com/additives/107",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "110",
         "last_update": "2013-10-07T19:42:21+0300",
         "name": "Sunset Yellow FCF (Orange Yellow S)",
-        "url": "http://e-additives.herokuapp.com/additives/110"
+        "url": "http://e-additives.herokuapp.com/additives/110",
+        "type": "COLOURS",
+        "description": "A synthetic coal tar dye, yellow in colour, used with E102",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "1100",
         "last_update": "2013-10-07T19:42:21+0300",
         "name": "Amylase",
-        "url": "http://e-additives.herokuapp.com/additives/1100"
+        "url": "http://e-additives.herokuapp.com/additives/1100",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "1103",
         "last_update": "2013-10-07T19:42:21+0300",
         "name": "Invertase",
-        "url": "http://e-additives.herokuapp.com/additives/1103"
+        "url": "http://e-additives.herokuapp.com/additives/1103",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "1105",
         "last_update": "2013-10-07T19:42:21+0300",
         "name": "Lysozyme",
-        "url": "http://e-additives.herokuapp.com/additives/1105"
+        "url": "http://e-additives.herokuapp.com/additives/1105",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "111",
         "last_update": "2013-10-07T19:42:21+0300",
         "name": "Orange GGN",
-        "url": "http://e-additives.herokuapp.com/additives/111"
+        "url": "http://e-additives.herokuapp.com/additives/111",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "120",
         "last_update": "2013-10-07T19:42:21+0300",
         "name": "Cochineal; Carminic acid; Carmines",
-        "url": "http://e-additives.herokuapp.com/additives/120"
+        "url": "http://e-additives.herokuapp.com/additives/120",
+        "type": "COLOURS",
+        "description": "Natural red colour obtained from egg yolk and dried insects. Can be manufactured",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "1200",
         "last_update": "2013-10-07T19:42:21+0300",
         "name": "Polydextrose",
-        "url": "http://e-additives.herokuapp.com/additives/1200"
+        "url": "http://e-additives.herokuapp.com/additives/1200",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "Natural occurring sugar in grapes, corn, etc.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "1201",
         "last_update": "2013-10-07T19:42:21+0300",
         "name": "Polyvinylpyrrolidone",
-        "url": "http://e-additives.herokuapp.com/additives/1201"
+        "url": "http://e-additives.herokuapp.com/additives/1201",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "1202",
         "last_update": "2013-10-07T19:42:21+0300",
         "name": "Polyvinylpolypyrrolidone",
-        "url": "http://e-additives.herokuapp.com/additives/1202"
+        "url": "http://e-additives.herokuapp.com/additives/1202",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "121",
         "last_update": "2013-10-07T19:42:21+0300",
         "name": "Citrus Red 2",
-        "url": "http://e-additives.herokuapp.com/additives/121"
+        "url": "http://e-additives.herokuapp.com/additives/121",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "122",
         "last_update": "2013-10-07T19:42:22+0300",
         "name": "Carmoisine; Azorubine",
-        "url": "http://e-additives.herokuapp.com/additives/122"
+        "url": "http://e-additives.herokuapp.com/additives/122",
+        "type": "COLOURS",
+        "description": "A synthetic coal tar dye, red/purple in colour",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "123",
         "last_update": "2013-10-07T19:42:22+0300",
         "name": "Amaranth; FD&C Red 2",
-        "url": "http://e-additives.herokuapp.com/additives/123"
+        "url": "http://e-additives.herokuapp.com/additives/123",
+        "type": "COLOURS",
+        "description": "A synthetic coal tar dye, red in colour",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "124",
         "last_update": "2013-10-07T19:42:22+0300",
         "name": "Ponceau 4R; Cochineal Red A, Brilliant Scarlet 4R",
-        "url": "http://e-additives.herokuapp.com/additives/124"
+        "url": "http://e-additives.herokuapp.com/additives/124",
+        "type": "COLOURS",
+        "description": "A synthetic coal tar dye, red in colour",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "125",
         "last_update": "2013-10-07T19:42:22+0300",
         "name": "Ponceau SX; Scarlet GN",
-        "url": "http://e-additives.herokuapp.com/additives/125"
+        "url": "http://e-additives.herokuapp.com/additives/125",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "126",
         "last_update": "2013-10-07T19:42:22+0300",
         "name": "Ponceau 6R",
-        "url": "http://e-additives.herokuapp.com/additives/126"
+        "url": "http://e-additives.herokuapp.com/additives/126",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "127",
         "last_update": "2013-10-07T19:42:22+0300",
         "name": "Erythrosine (FD&C Red 3)",
-        "url": "http://e-additives.herokuapp.com/additives/127"
+        "url": "http://e-additives.herokuapp.com/additives/127",
+        "type": "COLOURS",
+        "description": "A synthetic coal tar dye, red in colour, rich in mineral iodine.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "128",
         "last_update": "2013-10-07T19:42:22+0300",
         "name": "Red 2G",
-        "url": "http://e-additives.herokuapp.com/additives/128"
+        "url": "http://e-additives.herokuapp.com/additives/128",
+        "type": "COLOURS",
+        "description": "A synthetic coal tar dye, red in colour.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "129",
         "last_update": "2013-10-07T19:42:22+0300",
         "name": "Allura Red AC (FD&C Red 40)",
-        "url": "http://e-additives.herokuapp.com/additives/129"
+        "url": "http://e-additives.herokuapp.com/additives/129",
+        "type": "COLOURS",
+        "description": "Colouring agent",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "130",
         "last_update": "2013-10-07T19:42:23+0300",
         "name": "Indanthrene blue RS",
-        "url": "http://e-additives.herokuapp.com/additives/130"
+        "url": "http://e-additives.herokuapp.com/additives/130",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "131",
         "last_update": "2013-10-07T19:42:23+0300",
         "name": "Patent Blue V",
-        "url": "http://e-additives.herokuapp.com/additives/131"
+        "url": "http://e-additives.herokuapp.com/additives/131",
+        "type": "COLOURS",
+        "description": "Colouring agent",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "132",
         "last_update": "2013-10-07T19:42:23+0300",
         "name": "Indigo carmine; FD&C Blue 2",
-        "url": "http://e-additives.herokuapp.com/additives/132"
+        "url": "http://e-additives.herokuapp.com/additives/132",
+        "type": "COLOURS",
+        "description": "A synthetic coal tar dye, blue in colour.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "133",
         "last_update": "2013-10-07T19:42:23+0300",
         "name": "Brilliant Blue FCF (FD&C Blue 1)",
-        "url": "http://e-additives.herokuapp.com/additives/133"
+        "url": "http://e-additives.herokuapp.com/additives/133",
+        "type": "COLOURS",
+        "description": "A synthetic coal tar dye, blue in colour. Often mixed with E102 to make green.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "140",
         "last_update": "2013-10-07T19:42:23+0300",
         "name": "Chlorophylls and chlorophyllins",
-        "url": "http://e-additives.herokuapp.com/additives/140"
+        "url": "http://e-additives.herokuapp.com/additives/140",
+        "type": "COLOURS",
+        "description": "Naturally occurring green pigment found in leaves and stems of plants. Also manufactured.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "1404",
         "last_update": "2013-10-07T19:42:23+0300",
         "name": "Oxidised starch",
-        "url": "http://e-additives.herokuapp.com/additives/1404"
+        "url": "http://e-additives.herokuapp.com/additives/1404",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "141",
         "last_update": "2013-10-07T19:42:23+0300",
         "name": "Copper complexes of chlorophylls and chlorophyllins",
-        "url": "http://e-additives.herokuapp.com/additives/141"
+        "url": "http://e-additives.herokuapp.com/additives/141",
+        "type": "COLOURS",
+        "description": "A more stable colour obtained by a reaction between copper and manufactured chlorophyll.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "1410",
         "last_update": "2013-10-07T19:42:23+0300",
         "name": "Monostarch phosphate",
-        "url": "http://e-additives.herokuapp.com/additives/1410"
+        "url": "http://e-additives.herokuapp.com/additives/1410",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "1412",
         "last_update": "2013-10-07T19:42:23+0300",
         "name": "Distarch phosphate",
-        "url": "http://e-additives.herokuapp.com/additives/1412"
+        "url": "http://e-additives.herokuapp.com/additives/1412",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "1413",
         "last_update": "2013-10-07T19:42:24+0300",
         "name": "Phosphated distarch phosphate",
-        "url": "http://e-additives.herokuapp.com/additives/1413"
+        "url": "http://e-additives.herokuapp.com/additives/1413",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "1414",
         "last_update": "2013-10-07T19:42:24+0300",
         "name": "Acetylated distarch phosphate",
-        "url": "http://e-additives.herokuapp.com/additives/1414"
+        "url": "http://e-additives.herokuapp.com/additives/1414",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "142",
         "last_update": "2013-10-07T19:42:24+0300",
         "name": "Green S",
-        "url": "http://e-additives.herokuapp.com/additives/142"
+        "url": "http://e-additives.herokuapp.com/additives/142",
+        "type": "COLOURS",
+        "description": "A synthetic coal tar dye, green in colour.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "1420",
         "last_update": "2013-10-07T19:42:24+0300",
         "name": "Acetylated starch",
-        "url": "http://e-additives.herokuapp.com/additives/1420"
+        "url": "http://e-additives.herokuapp.com/additives/1420",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "1422",
         "last_update": "2013-10-07T19:42:24+0300",
         "name": "Acetylated distarch adipate",
-        "url": "http://e-additives.herokuapp.com/additives/1422"
+        "url": "http://e-additives.herokuapp.com/additives/1422",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "143",
         "last_update": "2013-10-07T19:42:24+0300",
         "name": "Fast Green FCF (FD&C Green 3)",
-        "url": "http://e-additives.herokuapp.com/additives/143"
+        "url": "http://e-additives.herokuapp.com/additives/143",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "1440",
         "last_update": "2013-10-07T19:42:24+0300",
         "name": "Hydroxyl propyl starch",
-        "url": "http://e-additives.herokuapp.com/additives/1440"
+        "url": "http://e-additives.herokuapp.com/additives/1440",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "1442",
         "last_update": "2013-10-07T19:42:24+0300",
         "name": "Hydroxyl propyl distarch phosphate",
-        "url": "http://e-additives.herokuapp.com/additives/1442"
+        "url": "http://e-additives.herokuapp.com/additives/1442",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "1450",
         "last_update": "2013-10-07T19:42:25+0300",
         "name": "Starch sodium octenyl succinate",
-        "url": "http://e-additives.herokuapp.com/additives/1450"
+        "url": "http://e-additives.herokuapp.com/additives/1450",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "1451",
         "last_update": "2013-10-07T19:42:25+0300",
         "name": "Acetylated oxidised starch",
-        "url": "http://e-additives.herokuapp.com/additives/1451"
+        "url": "http://e-additives.herokuapp.com/additives/1451",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "1505",
         "last_update": "2013-10-07T19:42:25+0300",
         "name": "Triethyl citrate",
-        "url": "http://e-additives.herokuapp.com/additives/1505"
+        "url": "http://e-additives.herokuapp.com/additives/1505",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "150a",
         "last_update": "2013-10-07T19:42:25+0300",
         "name": "Plain caramel",
-        "url": "http://e-additives.herokuapp.com/additives/150a"
+        "url": "http://e-additives.herokuapp.com/additives/150a",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "150b",
         "last_update": "2013-10-07T19:42:25+0300",
         "name": "Caustic sulphite caramel",
-        "url": "http://e-additives.herokuapp.com/additives/150b"
+        "url": "http://e-additives.herokuapp.com/additives/150b",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "150c",
         "last_update": "2013-10-07T19:42:25+0300",
         "name": "Ammonia caramel",
-        "url": "http://e-additives.herokuapp.com/additives/150c"
+        "url": "http://e-additives.herokuapp.com/additives/150c",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "150d",
         "last_update": "2013-10-07T19:42:25+0300",
         "name": "Sulphite ammonia caramel",
-        "url": "http://e-additives.herokuapp.com/additives/150d"
+        "url": "http://e-additives.herokuapp.com/additives/150d",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "151",
         "last_update": "2013-10-07T19:42:25+0300",
         "name": "Black PN; Brilliant Black BN",
-        "url": "http://e-additives.herokuapp.com/additives/151"
+        "url": "http://e-additives.herokuapp.com/additives/151",
+        "type": "COLOURS",
+        "description": "A synthetic coal tar dye, black in colour.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "1510",
         "last_update": "2013-10-07T19:42:25+0300",
         "name": "Ethanol",
-        "url": "http://e-additives.herokuapp.com/additives/1510"
+        "url": "http://e-additives.herokuapp.com/additives/1510",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "1518",
         "last_update": "2013-10-07T19:42:26+0300",
         "name": "Glyceryl triacetate, triacetin",
-        "url": "http://e-additives.herokuapp.com/additives/1518"
+        "url": "http://e-additives.herokuapp.com/additives/1518",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "1520",
         "last_update": "2013-10-07T19:42:26+0300",
         "name": "Propylene glycol",
-        "url": "http://e-additives.herokuapp.com/additives/1520"
+        "url": "http://e-additives.herokuapp.com/additives/1520",
+        "type": "ADDITIONAL_CHEMICALS",
+        "description": "Synthetic carrier for extracts, flavours and spices. Functions as a stabiliser and humectant.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "153",
         "last_update": "2013-10-07T19:42:26+0300",
         "name": "Vegetable carbon",
-        "url": "http://e-additives.herokuapp.com/additives/153"
+        "url": "http://e-additives.herokuapp.com/additives/153",
+        "type": "COLOURS",
+        "description": "Natural black colour obtained from burnt plant material, now often manufactured.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "154",
         "last_update": "2013-10-07T19:42:26+0300",
         "name": "Brown FK",
-        "url": "http://e-additives.herokuapp.com/additives/154"
+        "url": "http://e-additives.herokuapp.com/additives/154",
+        "type": "COLOURS",
+        "description": "A synthetic coal tar dye, brown in colour.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "155",
         "last_update": "2013-10-07T19:42:26+0300",
         "name": "Brown HT",
-        "url": "http://e-additives.herokuapp.com/additives/155"
+        "url": "http://e-additives.herokuapp.com/additives/155",
+        "type": "COLOURS",
+        "description": "A synthetic coal tar dye, brown in colour.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "160a",
         "last_update": "2013-10-07T19:42:26+0300",
         "name": "Carotenes",
-        "url": "http://e-additives.herokuapp.com/additives/160a"
+        "url": "http://e-additives.herokuapp.com/additives/160a",
+        "type": "COLOURS",
+        "description": "Beta-carotene is a well-known substance that is converted by the body to Vitamin A. Orange in colour.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "160b",
         "last_update": "2013-10-07T19:42:26+0300",
         "name": "Annatto; Bixin; Norbixin",
-        "url": "http://e-additives.herokuapp.com/additives/160b"
+        "url": "http://e-additives.herokuapp.com/additives/160b",
+        "type": "COLOURS",
+        "description": "Orange/peach pigment naturally present in butter and cheese.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "160c",
         "last_update": "2013-10-07T19:42:26+0300",
         "name": "Paprika extract; Capsanthian; Capsorubin",
-        "url": "http://e-additives.herokuapp.com/additives/160c"
+        "url": "http://e-additives.herokuapp.com/additives/160c",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "160d",
         "last_update": "2013-10-07T19:42:27+0300",
         "name": "Lycopene",
-        "url": "http://e-additives.herokuapp.com/additives/160d"
+        "url": "http://e-additives.herokuapp.com/additives/160d",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "160e",
         "last_update": "2013-10-07T19:42:27+0300",
         "name": "Beta-apo-8' carotenal (C30)",
-        "url": "http://e-additives.herokuapp.com/additives/160e"
+        "url": "http://e-additives.herokuapp.com/additives/160e",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "160f",
         "last_update": "2013-10-07T19:42:27+0300",
         "name": "Ethyl ester of beta-apo-8'-carotenic acid (C 30)",
-        "url": "http://e-additives.herokuapp.com/additives/160f"
+        "url": "http://e-additives.herokuapp.com/additives/160f",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "161b",
         "last_update": "2013-10-07T19:42:27+0300",
         "name": "Lutein",
-        "url": "http://e-additives.herokuapp.com/additives/161b"
+        "url": "http://e-additives.herokuapp.com/additives/161b",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "161g",
         "last_update": "2013-10-07T19:42:27+0300",
         "name": "Canthaxanthin",
-        "url": "http://e-additives.herokuapp.com/additives/161g"
+        "url": "http://e-additives.herokuapp.com/additives/161g",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "162",
         "last_update": "2013-10-07T19:42:27+0300",
         "name": "Beetroot Red; Betanin",
-        "url": "http://e-additives.herokuapp.com/additives/162"
+        "url": "http://e-additives.herokuapp.com/additives/162",
+        "type": "COLOURS",
+        "description": "Naturally occurring red/purple colour in beetroots.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "163",
         "last_update": "2013-10-07T19:42:27+0300",
         "name": "Anthocyanins",
-        "url": "http://e-additives.herokuapp.com/additives/163"
+        "url": "http://e-additives.herokuapp.com/additives/163",
+        "type": "COLOURS",
+        "description": "Plant pigments with colours ranging from red to blue.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "170",
         "last_update": "2013-10-07T19:42:27+0300",
         "name": "Calcium carbonate",
-        "url": "http://e-additives.herokuapp.com/additives/170"
+        "url": "http://e-additives.herokuapp.com/additives/170",
+        "type": "COLOURS",
+        "description": "Naturally occurring mineral. It has various functions including acid regulator, firming agent, releasing agent and nutrient.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "171",
         "last_update": "2013-10-07T19:42:27+0300",
         "name": "Titanium dioxide",
-        "url": "http://e-additives.herokuapp.com/additives/171"
+        "url": "http://e-additives.herokuapp.com/additives/171",
+        "type": "COLOURS",
+        "description": "Colouring agent",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "172",
         "last_update": "2013-10-07T19:42:28+0300",
         "name": "Iron oxides and hydroxides",
-        "url": "http://e-additives.herokuapp.com/additives/172"
+        "url": "http://e-additives.herokuapp.com/additives/172",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "173",
         "last_update": "2013-10-07T19:42:28+0300",
         "name": "Aluminium",
-        "url": "http://e-additives.herokuapp.com/additives/173"
+        "url": "http://e-additives.herokuapp.com/additives/173",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "174",
         "last_update": "2013-10-07T19:42:28+0300",
         "name": "Silver",
-        "url": "http://e-additives.herokuapp.com/additives/174"
+        "url": "http://e-additives.herokuapp.com/additives/174",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "175",
         "last_update": "2013-10-07T19:42:28+0300",
         "name": "Gold",
-        "url": "http://e-additives.herokuapp.com/additives/175"
+        "url": "http://e-additives.herokuapp.com/additives/175",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "180",
         "last_update": "2013-10-07T19:42:28+0300",
         "name": "Pigment Rubine; Lithol Rubine BK",
-        "url": "http://e-additives.herokuapp.com/additives/180"
+        "url": "http://e-additives.herokuapp.com/additives/180",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "181",
         "last_update": "2013-10-07T19:42:28+0300",
         "name": "Tannin",
-        "url": "http://e-additives.herokuapp.com/additives/181"
+        "url": "http://e-additives.herokuapp.com/additives/181",
+        "type": "COLOURS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "200",
         "last_update": "2013-10-07T19:42:28+0300",
         "name": "Sorbic acid",
-        "url": "http://e-additives.herokuapp.com/additives/200"
+        "url": "http://e-additives.herokuapp.com/additives/200",
+        "type": "PRESERVATIVES",
+        "description": "Naturally occurring in some fruit but generally manufactured synthetically for use as a food preservative.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "201",
         "last_update": "2013-10-07T19:42:28+0300",
         "name": "Sodium sorbate",
-        "url": "http://e-additives.herokuapp.com/additives/201"
+        "url": "http://e-additives.herokuapp.com/additives/201",
+        "type": "PRESERVATIVES",
+        "description": "Salt of Sorbic Acid.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "202",
         "last_update": "2013-10-07T19:42:29+0300",
         "name": "Potassium sorbate",
-        "url": "http://e-additives.herokuapp.com/additives/202"
+        "url": "http://e-additives.herokuapp.com/additives/202",
+        "type": "PRESERVATIVES",
+        "description": "Salt of Sorbic Acid.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "203",
         "last_update": "2013-10-07T19:42:29+0300",
         "name": "Calcium sorbate",
-        "url": "http://e-additives.herokuapp.com/additives/203"
+        "url": "http://e-additives.herokuapp.com/additives/203",
+        "type": "PRESERVATIVES",
+        "description": "Salt of Sorbic Acid.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "210",
         "last_update": "2013-10-07T19:42:29+0300",
         "name": "Benzoic acid",
-        "url": "http://e-additives.herokuapp.com/additives/210"
+        "url": "http://e-additives.herokuapp.com/additives/210",
+        "type": "PRESERVATIVES",
+        "description": "Occurs naturally in cherry bark, raspberries, tea, anise and cassia bark, but largely prepared synthetically for commercial use.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "211",
         "last_update": "2013-10-07T19:42:29+0300",
         "name": "Sodium benzoate",
-        "url": "http://e-additives.herokuapp.com/additives/211"
+        "url": "http://e-additives.herokuapp.com/additives/211",
+        "type": "PRESERVATIVES",
+        "description": "Salt of Benzoic Acid.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "212",
         "last_update": "2013-10-07T19:42:29+0300",
         "name": "Potassium benzoate",
-        "url": "http://e-additives.herokuapp.com/additives/212"
+        "url": "http://e-additives.herokuapp.com/additives/212",
+        "type": "PRESERVATIVES",
+        "description": "Salt of Benzoic Acid.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "213",
         "last_update": "2013-10-07T19:42:29+0300",
         "name": "Calcium benzoate",
-        "url": "http://e-additives.herokuapp.com/additives/213"
+        "url": "http://e-additives.herokuapp.com/additives/213",
+        "type": "PRESERVATIVES",
+        "description": "Salt of Benzoic Acid.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "214",
         "last_update": "2013-10-07T19:42:29+0300",
         "name": "Ethyl p-hydroxybenzoate",
-        "url": "http://e-additives.herokuapp.com/additives/214"
+        "url": "http://e-additives.herokuapp.com/additives/214",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "215",
         "last_update": "2013-10-07T19:42:29+0300",
         "name": "Sodium ethyl p-hydroxybenzoate",
-        "url": "http://e-additives.herokuapp.com/additives/215"
+        "url": "http://e-additives.herokuapp.com/additives/215",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "216",
         "last_update": "2013-10-07T19:42:30+0300",
         "name": "Propyl p-hydroxybenzoate",
-        "url": "http://e-additives.herokuapp.com/additives/216"
+        "url": "http://e-additives.herokuapp.com/additives/216",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "217",
         "last_update": "2013-10-07T19:42:30+0300",
         "name": "Sodium propyl p-hydroxybenzoate",
-        "url": "http://e-additives.herokuapp.com/additives/217"
+        "url": "http://e-additives.herokuapp.com/additives/217",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "218",
         "last_update": "2013-10-07T19:42:30+0300",
         "name": "Methyl p-hydroxybenzoate",
-        "url": "http://e-additives.herokuapp.com/additives/218"
+        "url": "http://e-additives.herokuapp.com/additives/218",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "219",
         "last_update": "2013-10-07T19:42:30+0300",
         "name": "Sodium methyl p-hydroxybenzoate",
-        "url": "http://e-additives.herokuapp.com/additives/219"
+        "url": "http://e-additives.herokuapp.com/additives/219",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "220",
         "last_update": "2013-10-07T19:42:30+0300",
         "name": "Sulphur dioxide",
-        "url": "http://e-additives.herokuapp.com/additives/220"
+        "url": "http://e-additives.herokuapp.com/additives/220",
+        "type": "PRESERVATIVES",
+        "description": "Gas prepared chemically for use as a food preservative, flour improver, bleaching agent and vitamin C stabiliser.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "221",
         "last_update": "2013-10-07T19:42:30+0300",
         "name": "Sodium sulphite",
-        "url": "http://e-additives.herokuapp.com/additives/221"
+        "url": "http://e-additives.herokuapp.com/additives/221",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "222",
         "last_update": "2013-10-07T19:42:30+0300",
         "name": "Sodium hydrogen sulphite",
-        "url": "http://e-additives.herokuapp.com/additives/222"
+        "url": "http://e-additives.herokuapp.com/additives/222",
+        "type": "PRESERVATIVES",
+        "description": "Synthetic preservative and bleaching agent.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "223",
         "last_update": "2013-10-07T19:42:30+0300",
         "name": "Sodium metabisuiphite",
-        "url": "http://e-additives.herokuapp.com/additives/223"
+        "url": "http://e-additives.herokuapp.com/additives/223",
+        "type": "PRESERVATIVES",
+        "description": "Synthetic preservative.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "224",
         "last_update": "2013-10-07T19:42:31+0300",
         "name": "Potassium metabisulphite",
-        "url": "http://e-additives.herokuapp.com/additives/224"
+        "url": "http://e-additives.herokuapp.com/additives/224",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "226",
         "last_update": "2013-10-07T19:42:31+0300",
         "name": "Calcium sulphite",
-        "url": "http://e-additives.herokuapp.com/additives/226"
+        "url": "http://e-additives.herokuapp.com/additives/226",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "227",
         "last_update": "2013-10-07T19:42:31+0300",
         "name": "Calcium hydrogen sulphite",
-        "url": "http://e-additives.herokuapp.com/additives/227"
+        "url": "http://e-additives.herokuapp.com/additives/227",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "228",
         "last_update": "2013-10-07T19:42:31+0300",
         "name": "Potassium hydrogen sulphite",
-        "url": "http://e-additives.herokuapp.com/additives/228"
+        "url": "http://e-additives.herokuapp.com/additives/228",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "230",
         "last_update": "2013-10-07T19:42:31+0300",
         "name": "Biphenyl; diphenyl",
-        "url": "http://e-additives.herokuapp.com/additives/230"
+        "url": "http://e-additives.herokuapp.com/additives/230",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "231",
         "last_update": "2013-10-07T19:42:31+0300",
         "name": "Orthophenyl phenol",
-        "url": "http://e-additives.herokuapp.com/additives/231"
+        "url": "http://e-additives.herokuapp.com/additives/231",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "232",
         "last_update": "2013-10-07T19:42:31+0300",
         "name": "Sodium orthophenyl phenol",
-        "url": "http://e-additives.herokuapp.com/additives/232"
+        "url": "http://e-additives.herokuapp.com/additives/232",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "233",
         "last_update": "2013-10-07T19:42:32+0300",
         "name": "Thiabendazole",
-        "url": "http://e-additives.herokuapp.com/additives/233"
+        "url": "http://e-additives.herokuapp.com/additives/233",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "234",
         "last_update": "2013-10-07T19:42:32+0300",
         "name": "Nisin",
-        "url": "http://e-additives.herokuapp.com/additives/234"
+        "url": "http://e-additives.herokuapp.com/additives/234",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "235",
         "last_update": "2013-10-07T19:42:32+0300",
         "name": "Natamycin",
-        "url": "http://e-additives.herokuapp.com/additives/235"
+        "url": "http://e-additives.herokuapp.com/additives/235",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "236",
         "last_update": "2013-10-07T19:42:32+0300",
         "name": "Formic acid",
-        "url": "http://e-additives.herokuapp.com/additives/236"
+        "url": "http://e-additives.herokuapp.com/additives/236",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "237",
         "last_update": "2013-10-07T19:42:32+0300",
         "name": "Sodium formate",
-        "url": "http://e-additives.herokuapp.com/additives/237"
+        "url": "http://e-additives.herokuapp.com/additives/237",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "238",
         "last_update": "2013-10-07T19:42:32+0300",
         "name": "Calcium formate",
-        "url": "http://e-additives.herokuapp.com/additives/238"
+        "url": "http://e-additives.herokuapp.com/additives/238",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "239",
         "last_update": "2013-10-07T19:42:32+0300",
         "name": "Hexamethylene tetramine",
-        "url": "http://e-additives.herokuapp.com/additives/239"
+        "url": "http://e-additives.herokuapp.com/additives/239",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "242",
         "last_update": "2013-10-07T19:42:32+0300",
         "name": "Dimethyl dicarbonate",
-        "url": "http://e-additives.herokuapp.com/additives/242"
+        "url": "http://e-additives.herokuapp.com/additives/242",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "249",
         "last_update": "2013-10-07T19:42:32+0300",
         "name": "Potassium nitrite",
-        "url": "http://e-additives.herokuapp.com/additives/249"
+        "url": "http://e-additives.herokuapp.com/additives/249",
+        "type": "PRESERVATIVES",
+        "description": "Naturally occurring mineral used as a preservative and as a colour fixative.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "250",
         "last_update": "2013-10-07T19:42:32+0300",
         "name": "Sodium nitrite",
-        "url": "http://e-additives.herokuapp.com/additives/250"
+        "url": "http://e-additives.herokuapp.com/additives/250",
+        "type": "PRESERVATIVES",
+        "description": "Derived from sodium nitrate by chemical or bacterial action. Acts as a preservative and colour fixative.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "251",
         "last_update": "2013-10-07T19:42:33+0300",
         "name": "Sodium nitrate",
-        "url": "http://e-additives.herokuapp.com/additives/251"
+        "url": "http://e-additives.herokuapp.com/additives/251",
+        "type": "PRESERVATIVES",
+        "description": "Naturally occurring mineral usually manufactured synthetically for use as a food preservative and colour fixative.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "252",
         "last_update": "2013-10-07T19:42:33+0300",
         "name": "Potassium nitrate",
-        "url": "http://e-additives.herokuapp.com/additives/252"
+        "url": "http://e-additives.herokuapp.com/additives/252",
+        "type": "PRESERVATIVES",
+        "description": "Naturally occurring but more usually produced artificially from waste animal and vegetable material. This additive is one of the oldest and most effective preservatives for meat. Also acts as a curing agent.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "260",
         "last_update": "2013-10-07T19:42:33+0300",
         "name": "Acetic acid",
-        "url": "http://e-additives.herokuapp.com/additives/260"
+        "url": "http://e-additives.herokuapp.com/additives/260",
+        "type": "PRESERVATIVES",
+        "description": "Natural component of vinegar but generally manufactured from wood. Used as a preservative, acid or colour diluent.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "261",
         "last_update": "2013-10-07T19:42:33+0300",
         "name": "Potassium acetate",
-        "url": "http://e-additives.herokuapp.com/additives/261"
+        "url": "http://e-additives.herokuapp.com/additives/261",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "262",
         "last_update": "2013-10-07T19:42:33+0300",
         "name": "Sodium acetate; Sodium diacetate",
-        "url": "http://e-additives.herokuapp.com/additives/262"
+        "url": "http://e-additives.herokuapp.com/additives/262",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "263",
         "last_update": "2013-10-07T19:42:33+0300",
         "name": "Calcium acetate",
-        "url": "http://e-additives.herokuapp.com/additives/263"
+        "url": "http://e-additives.herokuapp.com/additives/263",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "264",
         "last_update": "2013-10-07T19:42:33+0300",
         "name": "Ammonium acetate",
-        "url": "http://e-additives.herokuapp.com/additives/264"
+        "url": "http://e-additives.herokuapp.com/additives/264",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "270",
         "last_update": "2013-10-07T19:42:33+0300",
         "name": "Lactic acid",
-        "url": "http://e-additives.herokuapp.com/additives/270"
+        "url": "http://e-additives.herokuapp.com/additives/270",
+        "type": "PRESERVATIVES",
+        "description": "Produced by the fermentation of lactose, which is the sugar present in milk. It occurs naturally in soured milk and yogurt and acts as a preservative, acid, flavour and assists the action of anti-oxidants.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "280",
         "last_update": "2013-10-07T19:42:34+0300",
         "name": "Propionic acid",
-        "url": "http://e-additives.herokuapp.com/additives/280"
+        "url": "http://e-additives.herokuapp.com/additives/280",
+        "type": "PRESERVATIVES",
+        "description": "Fatty acid produced by animals in the process of digestion, but generally manufactures synthetically. Functions as a preservative.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "281",
         "last_update": "2013-10-07T19:42:34+0300",
         "name": "Sodium propionate",
-        "url": "http://e-additives.herokuapp.com/additives/281"
+        "url": "http://e-additives.herokuapp.com/additives/281",
+        "type": "PRESERVATIVES",
+        "description": "Salt of propionic acid.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "282",
         "last_update": "2013-10-07T19:42:34+0300",
         "name": "Calcium propionate",
-        "url": "http://e-additives.herokuapp.com/additives/282"
+        "url": "http://e-additives.herokuapp.com/additives/282",
+        "type": "PRESERVATIVES",
+        "description": "Salt of propionic acid. Found naturally in Swiss cheese.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "283",
         "last_update": "2013-10-07T19:42:34+0300",
         "name": "Potassium propionate",
-        "url": "http://e-additives.herokuapp.com/additives/283"
+        "url": "http://e-additives.herokuapp.com/additives/283",
+        "type": "PRESERVATIVES",
+        "description": "Salt of propionic acid.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "284",
         "last_update": "2013-10-07T19:42:34+0300",
         "name": "Boric acid",
-        "url": "http://e-additives.herokuapp.com/additives/284"
+        "url": "http://e-additives.herokuapp.com/additives/284",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "285",
         "last_update": "2013-10-07T19:42:34+0300",
         "name": "Sodium tetraborate; borax",
-        "url": "http://e-additives.herokuapp.com/additives/285"
+        "url": "http://e-additives.herokuapp.com/additives/285",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "290",
         "last_update": "2013-10-07T19:42:34+0300",
         "name": "Carbon dioxide",
-        "url": "http://e-additives.herokuapp.com/additives/290"
+        "url": "http://e-additives.herokuapp.com/additives/290",
+        "type": "PRESERVATIVES",
+        "description": "Gas present in air, but produced synthetically for food. Adds the fizz to fizzy drinks (carbonation), but is also used as a coolant, freezant, propellant, preservative and packaging gas.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "296",
         "last_update": "2013-10-07T19:42:35+0300",
         "name": "Malic acid",
-        "url": "http://e-additives.herokuapp.com/additives/296"
+        "url": "http://e-additives.herokuapp.com/additives/296",
+        "type": "PRESERVATIVES",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "297",
         "last_update": "2013-10-07T19:42:35+0300",
         "name": "Fumaric acid",
-        "url": "http://e-additives.herokuapp.com/additives/297"
+        "url": "http://e-additives.herokuapp.com/additives/297",
+        "type": "PRESERVATIVES",
+        "description": "Prepared synthetically as an acid flavour.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "300",
         "last_update": "2013-10-07T19:42:35+0300",
         "name": "Ascorbic acid",
-        "url": "http://e-additives.herokuapp.com/additives/300"
+        "url": "http://e-additives.herokuapp.com/additives/300",
+        "type": "ANTIOXIDANTS",
+        "description": "Occurs naturally in fruit and vegetables but is synthesised biologically. It acts as a preservative, anti-oxidant, meat colour fixative, and flour improver. Also a vitamin.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "301",
         "last_update": "2013-10-07T19:42:35+0300",
         "name": "Sodium ascorbate",
-        "url": "http://e-additives.herokuapp.com/additives/301"
+        "url": "http://e-additives.herokuapp.com/additives/301",
+        "type": "ANTIOXIDANTS",
+        "description": "Salt of ascorbic acid.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "302",
         "last_update": "2013-10-07T19:42:35+0300",
         "name": "Calcium ascorbate",
-        "url": "http://e-additives.herokuapp.com/additives/302"
+        "url": "http://e-additives.herokuapp.com/additives/302",
+        "type": "ANTIOXIDANTS",
+        "description": "Salt of ascorbic acid.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "303",
         "last_update": "2013-10-07T19:42:35+0300",
         "name": "Potassium ascorbate",
-        "url": "http://e-additives.herokuapp.com/additives/303"
+        "url": "http://e-additives.herokuapp.com/additives/303",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "304",
         "last_update": "2013-10-07T19:42:35+0300",
         "name": "Fatty acid esters of ascorbic acid",
-        "url": "http://e-additives.herokuapp.com/additives/304"
+        "url": "http://e-additives.herokuapp.com/additives/304",
+        "type": "ANTIOXIDANTS",
+        "description": "Salt of ascorbic acid.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "306",
         "last_update": "2013-10-07T19:42:36+0300",
         "name": "Tocopherols",
-        "url": "http://e-additives.herokuapp.com/additives/306"
+        "url": "http://e-additives.herokuapp.com/additives/306",
+        "type": "ANTIOXIDANTS",
+        "description": "Obtained from soya bean oil, wheatgerm, rice germ, cottonseed, maize and green leaves. Used as an antioxidant and nutrient.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "307",
         "last_update": "2013-10-07T19:42:36+0300",
         "name": "Alpha-tocopherol",
-        "url": "http://e-additives.herokuapp.com/additives/307"
+        "url": "http://e-additives.herokuapp.com/additives/307",
+        "type": "ANTIOXIDANTS",
+        "description": "Synthetic products of Tocopherol with similar functions.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "308",
         "last_update": "2013-10-07T19:42:36+0300",
         "name": "Gamma-tocopherol",
-        "url": "http://e-additives.herokuapp.com/additives/308"
+        "url": "http://e-additives.herokuapp.com/additives/308",
+        "type": "ANTIOXIDANTS",
+        "description": "Synthetic products of Tocopherol with similar functions.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "309",
         "last_update": "2013-10-07T19:42:36+0300",
         "name": "Delta-tocopherol",
-        "url": "http://e-additives.herokuapp.com/additives/309"
+        "url": "http://e-additives.herokuapp.com/additives/309",
+        "type": "ANTIOXIDANTS",
+        "description": "Synthetic products of Tocopherol with similar functions.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "310",
         "last_update": "2013-10-07T19:42:36+0300",
         "name": "Propyl gallate",
-        "url": "http://e-additives.herokuapp.com/additives/310"
+        "url": "http://e-additives.herokuapp.com/additives/310",
+        "type": "ANTIOXIDANTS",
+        "description": "Synthetically prepared antioxidant.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "311",
         "last_update": "2013-10-07T19:42:36+0300",
         "name": "Octyl gallate",
-        "url": "http://e-additives.herokuapp.com/additives/311"
+        "url": "http://e-additives.herokuapp.com/additives/311",
+        "type": "ANTIOXIDANTS",
+        "description": "Synthetic product similar to Propyl Gallate with similar function.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "312",
         "last_update": "2013-10-07T19:42:36+0300",
         "name": "Dodecyl gallate",
-        "url": "http://e-additives.herokuapp.com/additives/312"
+        "url": "http://e-additives.herokuapp.com/additives/312",
+        "type": "ANTIOXIDANTS",
+        "description": "Synthetic product similar to Propyl Gallate with similar function.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "315",
         "last_update": "2013-10-07T19:42:36+0300",
         "name": "Erythorbic acid",
-        "url": "http://e-additives.herokuapp.com/additives/315"
+        "url": "http://e-additives.herokuapp.com/additives/315",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "316",
         "last_update": "2013-10-07T19:42:36+0300",
         "name": "Sodium erythorbate",
-        "url": "http://e-additives.herokuapp.com/additives/316"
+        "url": "http://e-additives.herokuapp.com/additives/316",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "317",
         "last_update": "2013-10-07T19:42:37+0300",
         "name": "Erythorbic acid",
-        "url": "http://e-additives.herokuapp.com/additives/317"
+        "url": "http://e-additives.herokuapp.com/additives/317",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "318",
         "last_update": "2013-10-07T19:42:37+0300",
         "name": "Sodium erythorbate",
-        "url": "http://e-additives.herokuapp.com/additives/318"
+        "url": "http://e-additives.herokuapp.com/additives/318",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "319",
         "last_update": "2013-10-07T19:42:37+0300",
         "name": "Tert-ButylHydroQuinone (TBHQ)",
-        "url": "http://e-additives.herokuapp.com/additives/319"
+        "url": "http://e-additives.herokuapp.com/additives/319",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "320",
         "last_update": "2013-10-07T19:42:37+0300",
         "name": "Butylated hydroxyanisole (BHA)",
-        "url": "http://e-additives.herokuapp.com/additives/320"
+        "url": "http://e-additives.herokuapp.com/additives/320",
+        "type": "ANTIOXIDANTS",
+        "description": "Antioxidant manufactured synthetically for use alone or with E280, E310, or E330",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "321",
         "last_update": "2013-10-07T19:42:37+0300",
         "name": "Butylated hydroxytoluene (BHT)",
-        "url": "http://e-additives.herokuapp.com/additives/321"
+        "url": "http://e-additives.herokuapp.com/additives/321",
+        "type": "ANTIOXIDANTS",
+        "description": "Synthetically prepared antioxidant.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "322",
         "last_update": "2013-10-07T19:42:37+0300",
         "name": "Lecithins",
-        "url": "http://e-additives.herokuapp.com/additives/322"
+        "url": "http://e-additives.herokuapp.com/additives/322",
+        "type": "ANTIOXIDANTS",
+        "description": "Type of fat or lipid compound found naturally in all living organisms, protective against cholesterol deposition. Egg yolk is a rich source of lecithins, but commercially, most is obtained from soya beans. Used as an antioxidant, and emulsifier.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "325",
         "last_update": "2013-10-07T19:42:37+0300",
         "name": "Sodium lactate",
-        "url": "http://e-additives.herokuapp.com/additives/325"
+        "url": "http://e-additives.herokuapp.com/additives/325",
+        "type": "ANTIOXIDANTS",
+        "description": "Salt of lactic acid (E270) used as a humectant",
+        "harmfulness": "SAFE"
     },
     {
         "code": "326",
         "last_update": "2013-10-07T19:42:37+0300",
         "name": "Potassium lactate",
-        "url": "http://e-additives.herokuapp.com/additives/326"
+        "url": "http://e-additives.herokuapp.com/additives/326",
+        "type": "ANTIOXIDANTS",
+        "description": "Salt of lactic acid (E270) used as an acid regulator.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "327",
         "last_update": "2013-10-07T19:42:37+0300",
         "name": "Calcium lactate",
-        "url": "http://e-additives.herokuapp.com/additives/327"
+        "url": "http://e-additives.herokuapp.com/additives/327",
+        "type": "ANTIOXIDANTS",
+        "description": "Salt of lactic acid (E270) used as an acid regulator and firming agent",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "328",
         "last_update": "2013-10-07T19:42:38+0300",
         "name": "Ammonium lactate",
-        "url": "http://e-additives.herokuapp.com/additives/328"
+        "url": "http://e-additives.herokuapp.com/additives/328",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "329",
         "last_update": "2013-10-07T19:42:38+0300",
         "name": "Magnesium lactate",
-        "url": "http://e-additives.herokuapp.com/additives/329"
+        "url": "http://e-additives.herokuapp.com/additives/329",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "330",
         "last_update": "2013-10-07T19:42:38+0300",
         "name": "Citric acid",
-        "url": "http://e-additives.herokuapp.com/additives/330"
+        "url": "http://e-additives.herokuapp.com/additives/330",
+        "type": "ANTIOXIDANTS",
+        "description": "Occurs naturally in citrus fruit but may also be prepared from the fermentation of molasses. Used as an antioxidant, preservative, acid regulator and flour improver.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "331",
         "last_update": "2013-10-07T19:42:38+0300",
         "name": "Sodium citrates",
-        "url": "http://e-additives.herokuapp.com/additives/331"
+        "url": "http://e-additives.herokuapp.com/additives/331",
+        "type": "ANTIOXIDANTS",
+        "description": "Salt of Citric Acid with similar functions.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "332",
         "last_update": "2013-10-07T19:42:38+0300",
         "name": "Potassium citrates",
-        "url": "http://e-additives.herokuapp.com/additives/332"
+        "url": "http://e-additives.herokuapp.com/additives/332",
+        "type": "ANTIOXIDANTS",
+        "description": "Salt of Citric Acid with similar functions.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "333",
         "last_update": "2013-10-07T19:42:38+0300",
         "name": "Calcium citrates",
-        "url": "http://e-additives.herokuapp.com/additives/333"
+        "url": "http://e-additives.herokuapp.com/additives/333",
+        "type": "ANTIOXIDANTS",
+        "description": "Salt of Citric Acid, which acts as an acid regulator, emulsifier and firming agent.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "334",
         "last_update": "2013-10-07T19:42:38+0300",
         "name": "Tartaric acid",
-        "url": "http://e-additives.herokuapp.com/additives/334"
+        "url": "http://e-additives.herokuapp.com/additives/334",
+        "type": "ANTIOXIDANTS",
+        "description": "Natural product of wine making used as an acid regulator.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "335",
         "last_update": "2013-10-07T19:42:38+0300",
         "name": "Sodium tartrates",
-        "url": "http://e-additives.herokuapp.com/additives/335"
+        "url": "http://e-additives.herokuapp.com/additives/335",
+        "type": "ANTIOXIDANTS",
+        "description": "Salt of Tartaric Acid with similar function.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "336",
         "last_update": "2013-10-07T19:42:38+0300",
         "name": "Potassium tartrates",
-        "url": "http://e-additives.herokuapp.com/additives/336"
+        "url": "http://e-additives.herokuapp.com/additives/336",
+        "type": "ANTIOXIDANTS",
+        "description": "Salt of Tartaric Acid with similar function.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "337",
         "last_update": "2013-10-07T19:42:38+0300",
         "name": "Sodium potassium tartrate",
-        "url": "http://e-additives.herokuapp.com/additives/337"
+        "url": "http://e-additives.herokuapp.com/additives/337",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "338",
         "last_update": "2013-10-07T19:42:39+0300",
         "name": "Phosphoric acid",
-        "url": "http://e-additives.herokuapp.com/additives/338"
+        "url": "http://e-additives.herokuapp.com/additives/338",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "339",
         "last_update": "2013-10-07T19:42:39+0300",
         "name": "Sodium phosphates",
-        "url": "http://e-additives.herokuapp.com/additives/339"
+        "url": "http://e-additives.herokuapp.com/additives/339",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "340",
         "last_update": "2013-10-07T19:42:39+0300",
         "name": "Potassium phosphates",
-        "url": "http://e-additives.herokuapp.com/additives/340"
+        "url": "http://e-additives.herokuapp.com/additives/340",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "341",
         "last_update": "2013-10-07T19:42:39+0300",
         "name": "Calcium phosphates",
-        "url": "http://e-additives.herokuapp.com/additives/341"
+        "url": "http://e-additives.herokuapp.com/additives/341",
+        "type": "ANTIOXIDANTS",
+        "description": "Synthetic products of a naturally occurring mineral. Used as an anti-caking agent, acid regulator, emulsifier, flour improver, nutrient and an aid to antioxidants.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "343",
         "last_update": "2013-10-07T19:42:39+0300",
         "name": "Magnesium phosphates",
-        "url": "http://e-additives.herokuapp.com/additives/343"
+        "url": "http://e-additives.herokuapp.com/additives/343",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "350",
         "last_update": "2013-10-07T19:42:39+0300",
         "name": "Sodium malates",
-        "url": "http://e-additives.herokuapp.com/additives/350"
+        "url": "http://e-additives.herokuapp.com/additives/350",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "351",
         "last_update": "2013-10-07T19:42:39+0300",
         "name": "Potassium malate",
-        "url": "http://e-additives.herokuapp.com/additives/351"
+        "url": "http://e-additives.herokuapp.com/additives/351",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "352",
         "last_update": "2013-10-07T19:42:39+0300",
         "name": "Calcium malate",
-        "url": "http://e-additives.herokuapp.com/additives/352"
+        "url": "http://e-additives.herokuapp.com/additives/352",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "353",
         "last_update": "2013-10-07T19:42:39+0300",
         "name": "Metatartaric acid",
-        "url": "http://e-additives.herokuapp.com/additives/353"
+        "url": "http://e-additives.herokuapp.com/additives/353",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "354",
         "last_update": "2013-10-07T19:42:40+0300",
         "name": "Calcium tartrate",
-        "url": "http://e-additives.herokuapp.com/additives/354"
+        "url": "http://e-additives.herokuapp.com/additives/354",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "355",
         "last_update": "2013-10-07T19:42:40+0300",
         "name": "Adipic acid",
-        "url": "http://e-additives.herokuapp.com/additives/355"
+        "url": "http://e-additives.herokuapp.com/additives/355",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "356",
         "last_update": "2013-10-07T19:42:40+0300",
         "name": "Sodium adipate",
-        "url": "http://e-additives.herokuapp.com/additives/356"
+        "url": "http://e-additives.herokuapp.com/additives/356",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "357",
         "last_update": "2013-10-07T19:42:40+0300",
         "name": "Potassium adipate",
-        "url": "http://e-additives.herokuapp.com/additives/357"
+        "url": "http://e-additives.herokuapp.com/additives/357",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "363",
         "last_update": "2013-10-07T19:42:40+0300",
         "name": "Succinic acid",
-        "url": "http://e-additives.herokuapp.com/additives/363"
+        "url": "http://e-additives.herokuapp.com/additives/363",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "370",
         "last_update": "2013-10-07T19:42:40+0300",
         "name": "Heptonolactone",
-        "url": "http://e-additives.herokuapp.com/additives/370"
+        "url": "http://e-additives.herokuapp.com/additives/370",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "375",
         "last_update": "2013-10-07T19:42:40+0300",
         "name": "Niacin",
-        "url": "http://e-additives.herokuapp.com/additives/375"
+        "url": "http://e-additives.herokuapp.com/additives/375",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "380",
         "last_update": "2013-10-07T19:42:40+0300",
         "name": "Triammonium citrate",
-        "url": "http://e-additives.herokuapp.com/additives/380"
+        "url": "http://e-additives.herokuapp.com/additives/380",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "381",
         "last_update": "2013-10-07T19:42:40+0300",
         "name": "Ammonium ferric citrates",
-        "url": "http://e-additives.herokuapp.com/additives/381"
+        "url": "http://e-additives.herokuapp.com/additives/381",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "385",
         "last_update": "2013-10-07T19:42:40+0300",
         "name": "Calcium disodium EDTA",
-        "url": "http://e-additives.herokuapp.com/additives/385"
+        "url": "http://e-additives.herokuapp.com/additives/385",
+        "type": "ANTIOXIDANTS",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "400",
         "last_update": "2013-10-07T19:42:41+0300",
         "name": "Alginic acid",
-        "url": "http://e-additives.herokuapp.com/additives/400"
+        "url": "http://e-additives.herokuapp.com/additives/400",
+        "type": "THICKENERS",
+        "description": "Emulsifier, stabiliser and gelling agent or thickener extracted from brown seaweed.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "401",
         "last_update": "2013-10-07T19:42:41+0300",
         "name": "Sodium alginate",
-        "url": "http://e-additives.herokuapp.com/additives/401"
+        "url": "http://e-additives.herokuapp.com/additives/401",
+        "type": "THICKENERS",
+        "description": "Salt of Alginic Acid with similar functions.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "402",
         "last_update": "2013-10-07T19:42:41+0300",
         "name": "Potassium alginate",
-        "url": "http://e-additives.herokuapp.com/additives/402"
+        "url": "http://e-additives.herokuapp.com/additives/402",
+        "type": "THICKENERS",
+        "description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+        "harmfulness": "SAFE"
     },
     {
         "code": "403",
         "last_update": "2013-10-07T19:42:41+0300",
         "name": "Ammonium alginate",
-        "url": "http://e-additives.herokuapp.com/additives/403"
+        "url": "http://e-additives.herokuapp.com/additives/403",
+        "type": "THICKENERS",
+        "description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+        "harmfulness": "SAFE"
     },
     {
         "code": "404",
         "last_update": "2013-10-07T19:42:41+0300",
         "name": "Calcium alginate",
-        "url": "http://e-additives.herokuapp.com/additives/404"
+        "url": "http://e-additives.herokuapp.com/additives/404",
+        "type": "THICKENERS",
+        "description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+        "harmfulness": "SAFE"
     },
     {
         "code": "405",
         "last_update": "2013-10-07T19:42:41+0300",
         "name": "Propane-1,2-diol alginate",
-        "url": "http://e-additives.herokuapp.com/additives/405"
+        "url": "http://e-additives.herokuapp.com/additives/405",
+        "type": "THICKENERS",
+        "description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "406",
         "last_update": "2013-10-07T19:42:41+0300",
         "name": "Agar",
-        "url": "http://e-additives.herokuapp.com/additives/406"
+        "url": "http://e-additives.herokuapp.com/additives/406",
+        "type": "THICKENERS",
+        "description": "Naturally occurring gum extracted from seaweeds. It is not digested so acts a source of dietary fibre. Also acts as a stabiliser and gelling agent.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "407",
         "last_update": "2013-10-07T19:42:41+0300",
         "name": "Carrageenan",
-        "url": "http://e-additives.herokuapp.com/additives/407"
+        "url": "http://e-additives.herokuapp.com/additives/407",
+        "type": "THICKENERS",
+        "description": "Gum naturally present in red seaweed. Used as an emulsifier, stabiliser, and gelling agent.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "407a",
         "last_update": "2013-10-07T19:42:41+0300",
         "name": "Processed eucheuma seaweed",
-        "url": "http://e-additives.herokuapp.com/additives/407a"
+        "url": "http://e-additives.herokuapp.com/additives/407a",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "410",
         "last_update": "2013-10-07T19:42:42+0300",
         "name": "Locust bean gum; carob gum",
-        "url": "http://e-additives.herokuapp.com/additives/410"
+        "url": "http://e-additives.herokuapp.com/additives/410",
+        "type": "THICKENERS",
+        "description": "Natural extract from the Carob tree seed. Similar to E407.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "412",
         "last_update": "2013-10-07T19:42:42+0300",
         "name": "Guar gum",
-        "url": "http://e-additives.herokuapp.com/additives/412"
+        "url": "http://e-additives.herokuapp.com/additives/412",
+        "type": "THICKENERS",
+        "description": "Naturally occurring seed gum from a tree of the pea family. Used as a thickener and stabiliser.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "413",
         "last_update": "2013-10-07T19:42:42+0300",
         "name": "Tragacanth",
-        "url": "http://e-additives.herokuapp.com/additives/413"
+        "url": "http://e-additives.herokuapp.com/additives/413",
+        "type": "THICKENERS",
+        "description": "Natural gum obtained from a tree of the pea family. Used as a stabiliser, emulsifier and thickener. Used to prevent crystallisation of sugar.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "414",
         "last_update": "2013-10-07T19:42:42+0300",
         "name": "Acacia gum; gum arabic",
-        "url": "http://e-additives.herokuapp.com/additives/414"
+        "url": "http://e-additives.herokuapp.com/additives/414",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "415",
         "last_update": "2013-10-07T19:42:42+0300",
         "name": "Xanthan gum",
-        "url": "http://e-additives.herokuapp.com/additives/415"
+        "url": "http://e-additives.herokuapp.com/additives/415",
+        "type": "THICKENERS",
+        "description": "Made from fermentation of carbohydrates by bacteria. Used as an emulsifier, stabiliser and thickener.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "416",
         "last_update": "2013-10-07T19:42:42+0300",
         "name": "Karaya gum",
-        "url": "http://e-additives.herokuapp.com/additives/416"
+        "url": "http://e-additives.herokuapp.com/additives/416",
+        "type": "THICKENERS",
+        "description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "417",
         "last_update": "2013-10-07T19:42:42+0300",
         "name": "Tara gum",
-        "url": "http://e-additives.herokuapp.com/additives/417"
+        "url": "http://e-additives.herokuapp.com/additives/417",
+        "type": "THICKENERS",
+        "description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+        "harmfulness": "SAFE"
     },
     {
         "code": "418",
         "last_update": "2013-10-07T19:42:42+0300",
         "name": "Gellan gum",
-        "url": "http://e-additives.herokuapp.com/additives/418"
+        "url": "http://e-additives.herokuapp.com/additives/418",
+        "type": "THICKENERS",
+        "description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "420",
         "last_update": "2013-10-07T19:42:42+0300",
         "name": "Sorbitol; Sorbitol syrup",
-        "url": "http://e-additives.herokuapp.com/additives/420"
+        "url": "http://e-additives.herokuapp.com/additives/420",
+        "type": "THICKENERS",
+        "description": "Sugar alcohol produced from glucose. Is less quickly absorbed than sugar so often used as a sweetener. Also used as a humectant and food colour diluent. May have a laxative effect in large doses.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "421",
         "last_update": "2013-10-07T19:42:43+0300",
         "name": "Mannitol",
-        "url": "http://e-additives.herokuapp.com/additives/421"
+        "url": "http://e-additives.herokuapp.com/additives/421",
+        "type": "THICKENERS",
+        "description": "Sugar alcohol derived from mannose, but general manufactured from seaweed. Acts as a sweetener, emulsifier, anti-caking agent and thickener.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "422",
         "last_update": "2013-10-07T19:42:43+0300",
         "name": "Glycerol",
-        "url": "http://e-additives.herokuapp.com/additives/422"
+        "url": "http://e-additives.herokuapp.com/additives/422",
+        "type": "THICKENERS",
+        "description": "Naturally occurring in many plant cells but generally prepared commercially from fats and oils. Used as a humectant.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "425",
         "last_update": "2013-10-07T19:42:43+0300",
         "name": "Konjac",
-        "url": "http://e-additives.herokuapp.com/additives/425"
+        "url": "http://e-additives.herokuapp.com/additives/425",
+        "type": "THICKENERS",
+        "description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "430",
         "last_update": "2013-10-07T19:42:43+0300",
         "name": "Polyoxyethylene stearate",
-        "url": "http://e-additives.herokuapp.com/additives/430"
+        "url": "http://e-additives.herokuapp.com/additives/430",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "431",
         "last_update": "2013-10-07T19:42:43+0300",
         "name": "Polyoxyethylene (40) stearate",
-        "url": "http://e-additives.herokuapp.com/additives/431"
+        "url": "http://e-additives.herokuapp.com/additives/431",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "432",
         "last_update": "2013-10-07T19:42:43+0300",
         "name": "Polysorbate 20",
-        "url": "http://e-additives.herokuapp.com/additives/432"
+        "url": "http://e-additives.herokuapp.com/additives/432",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "433",
         "last_update": "2013-10-07T19:42:43+0300",
         "name": "Polysorbate 80",
-        "url": "http://e-additives.herokuapp.com/additives/433"
+        "url": "http://e-additives.herokuapp.com/additives/433",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "434",
         "last_update": "2013-10-07T19:42:43+0300",
         "name": "Polysorbate 40",
-        "url": "http://e-additives.herokuapp.com/additives/434"
+        "url": "http://e-additives.herokuapp.com/additives/434",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "435",
         "last_update": "2013-10-07T19:42:43+0300",
         "name": "Polysorbate 60",
-        "url": "http://e-additives.herokuapp.com/additives/435"
+        "url": "http://e-additives.herokuapp.com/additives/435",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "436",
         "last_update": "2013-10-07T19:42:43+0300",
         "name": "Polysorbate 65",
-        "url": "http://e-additives.herokuapp.com/additives/436"
+        "url": "http://e-additives.herokuapp.com/additives/436",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "440",
         "last_update": "2013-10-07T19:42:44+0300",
         "name": "Pectins",
-        "url": "http://e-additives.herokuapp.com/additives/440"
+        "url": "http://e-additives.herokuapp.com/additives/440",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "441",
         "last_update": "2013-10-07T19:42:44+0300",
         "name": "Gelatine",
-        "url": "http://e-additives.herokuapp.com/additives/441"
+        "url": "http://e-additives.herokuapp.com/additives/441",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "442",
         "last_update": "2013-10-07T19:42:44+0300",
         "name": "Ammonium phosphatides",
-        "url": "http://e-additives.herokuapp.com/additives/442"
+        "url": "http://e-additives.herokuapp.com/additives/442",
+        "type": "THICKENERS",
+        "description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+        "harmfulness": "SAFE"
     },
     {
         "code": "444",
         "last_update": "2013-10-07T19:42:44+0300",
         "name": "Sucrose acetate isobutyrate",
-        "url": "http://e-additives.herokuapp.com/additives/444"
+        "url": "http://e-additives.herokuapp.com/additives/444",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "445",
         "last_update": "2013-10-07T19:42:44+0300",
         "name": "Glycerol esters of wood rosins",
-        "url": "http://e-additives.herokuapp.com/additives/445"
+        "url": "http://e-additives.herokuapp.com/additives/445",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "450",
         "last_update": "2013-10-07T19:42:44+0300",
         "name": "Diphosphates",
-        "url": "http://e-additives.herokuapp.com/additives/450"
+        "url": "http://e-additives.herokuapp.com/additives/450",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "451",
         "last_update": "2013-10-07T19:42:44+0300",
         "name": "Triphosphates",
-        "url": "http://e-additives.herokuapp.com/additives/451"
+        "url": "http://e-additives.herokuapp.com/additives/451",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "452",
         "last_update": "2013-10-07T19:42:44+0300",
         "name": "Polyphosphates",
-        "url": "http://e-additives.herokuapp.com/additives/452"
+        "url": "http://e-additives.herokuapp.com/additives/452",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "459",
         "last_update": "2013-10-07T19:42:44+0300",
         "name": "Beta-cyclodextrin",
-        "url": "http://e-additives.herokuapp.com/additives/459"
+        "url": "http://e-additives.herokuapp.com/additives/459",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "460",
         "last_update": "2013-10-07T19:42:44+0300",
         "name": "Cellulose",
-        "url": "http://e-additives.herokuapp.com/additives/460"
+        "url": "http://e-additives.herokuapp.com/additives/460",
+        "type": "THICKENERS",
+        "description": "Fibrous part of plant cell walls used as a bulking agent.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "461",
         "last_update": "2013-10-07T19:42:45+0300",
         "name": "Methyl cellulose",
-        "url": "http://e-additives.herokuapp.com/additives/461"
+        "url": "http://e-additives.herokuapp.com/additives/461",
+        "type": "THICKENERS",
+        "description": "Derived from Cellulose with similar properties.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "463",
         "last_update": "2013-10-07T19:42:45+0300",
         "name": "Hydroxypropyl cellulose",
-        "url": "http://e-additives.herokuapp.com/additives/463"
+        "url": "http://e-additives.herokuapp.com/additives/463",
+        "type": "THICKENERS",
+        "description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+        "harmfulness": "SAFE"
     },
     {
         "code": "464",
         "last_update": "2013-10-07T19:42:45+0300",
         "name": "Hydroxypropyl methyl cellulose",
-        "url": "http://e-additives.herokuapp.com/additives/464"
+        "url": "http://e-additives.herokuapp.com/additives/464",
+        "type": "THICKENERS",
+        "description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "465",
         "last_update": "2013-10-07T19:42:45+0300",
         "name": "Ethyl methyl cellulose",
-        "url": "http://e-additives.herokuapp.com/additives/465"
+        "url": "http://e-additives.herokuapp.com/additives/465",
+        "type": "THICKENERS",
+        "description": "Derived from Cellulose with similar properties.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "466",
         "last_update": "2013-10-07T19:42:45+0300",
         "name": "Carboxy methyl cellulose",
-        "url": "http://e-additives.herokuapp.com/additives/466"
+        "url": "http://e-additives.herokuapp.com/additives/466",
+        "type": "THICKENERS",
+        "description": "Derived from Cellulose with similar properties.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "467",
         "last_update": "2013-10-07T19:42:45+0300",
         "name": "Sodium carboxy methyl cellulose",
-        "url": "http://e-additives.herokuapp.com/additives/467"
+        "url": "http://e-additives.herokuapp.com/additives/467",
+        "type": "THICKENERS",
+        "description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "468",
         "last_update": "2013-10-07T19:42:45+0300",
         "name": "Croscarmellose",
-        "url": "http://e-additives.herokuapp.com/additives/468"
+        "url": "http://e-additives.herokuapp.com/additives/468",
+        "type": "THICKENERS",
+        "description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "469",
         "last_update": "2013-10-07T19:42:45+0300",
         "name": "Sodium caseinate",
-        "url": "http://e-additives.herokuapp.com/additives/469"
+        "url": "http://e-additives.herokuapp.com/additives/469",
+        "type": "THICKENERS",
+        "description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "470a",
         "last_update": "2013-10-07T19:42:45+0300",
         "name": "Fatty acids salts",
-        "url": "http://e-additives.herokuapp.com/additives/470a"
+        "url": "http://e-additives.herokuapp.com/additives/470a",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "470b",
         "last_update": "2013-10-07T19:42:46+0300",
         "name": "Magnesium salts of fatty acids",
-        "url": "http://e-additives.herokuapp.com/additives/470b"
+        "url": "http://e-additives.herokuapp.com/additives/470b",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "471",
         "last_update": "2013-10-07T19:42:46+0300",
         "name": "Mono- and diglycerides of fatty acids",
-        "url": "http://e-additives.herokuapp.com/additives/471"
+        "url": "http://e-additives.herokuapp.com/additives/471",
+        "type": "THICKENERS",
+        "description": "Normal products of fat digestion but are prepared synthetically.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "472a",
         "last_update": "2013-10-07T19:42:46+0300",
         "name": "Fatty acid esters of glycerol",
-        "url": "http://e-additives.herokuapp.com/additives/472a"
+        "url": "http://e-additives.herokuapp.com/additives/472a",
+        "type": "THICKENERS",
+        "description": "Emulsifiers, Stabilisers, Thickeners and Gelling Agents",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "472b",
         "last_update": "2013-10-07T19:42:46+0300",
         "name": "Lactic acid esters of mono- and diglycerides of fatty acids",
-        "url": "http://e-additives.herokuapp.com/additives/472b"
+        "url": "http://e-additives.herokuapp.com/additives/472b",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "472c",
         "last_update": "2013-10-07T19:42:46+0300",
         "name": "Citric acid esters of mono- and diglycerides of fatty acids",
-        "url": "http://e-additives.herokuapp.com/additives/472c"
+        "url": "http://e-additives.herokuapp.com/additives/472c",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "472d",
         "last_update": "2013-10-07T19:42:46+0300",
         "name": "Tartaric acid esters of mono- and diglycerides of fatty acids",
-        "url": "http://e-additives.herokuapp.com/additives/472d"
+        "url": "http://e-additives.herokuapp.com/additives/472d",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "472e",
         "last_update": "2013-10-07T19:42:46+0300",
         "name": "Mono- and diacetyltartaric acid esters of mono- and diglycerides of fatty acids",
-        "url": "http://e-additives.herokuapp.com/additives/472e"
+        "url": "http://e-additives.herokuapp.com/additives/472e",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "472f",
         "last_update": "2013-10-07T19:42:46+0300",
         "name": "Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids",
-        "url": "http://e-additives.herokuapp.com/additives/472f"
+        "url": "http://e-additives.herokuapp.com/additives/472f",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "473",
         "last_update": "2013-10-07T19:42:46+0300",
         "name": "Sucrose esters of fatty acids",
-        "url": "http://e-additives.herokuapp.com/additives/473"
+        "url": "http://e-additives.herokuapp.com/additives/473",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "474",
         "last_update": "2013-10-07T19:42:46+0300",
         "name": "Sucroglycerides",
-        "url": "http://e-additives.herokuapp.com/additives/474"
+        "url": "http://e-additives.herokuapp.com/additives/474",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "475",
         "last_update": "2013-10-07T19:42:46+0300",
         "name": "Polyglycerol esters of fatty acids",
-        "url": "http://e-additives.herokuapp.com/additives/475"
+        "url": "http://e-additives.herokuapp.com/additives/475",
+        "type": "THICKENERS",
+        "description": "Synthetic product of E471 used as an emulsifier and stabiliser.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "476",
         "last_update": "2013-10-07T19:42:47+0300",
         "name": "Polyglycerol polyricinoleate",
-        "url": "http://e-additives.herokuapp.com/additives/476"
+        "url": "http://e-additives.herokuapp.com/additives/476",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "477",
         "last_update": "2013-10-07T19:42:47+0300",
         "name": "Propylene glycol esters of fatty acids",
-        "url": "http://e-additives.herokuapp.com/additives/477"
+        "url": "http://e-additives.herokuapp.com/additives/477",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "478",
         "last_update": "2013-10-07T19:42:47+0300",
         "name": "Lactylated fatty acid esters of glycerol and propane",
-        "url": "http://e-additives.herokuapp.com/additives/478"
+        "url": "http://e-additives.herokuapp.com/additives/478",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "479b",
         "last_update": "2013-10-07T19:42:47+0300",
         "name": "Thermally oxidised soya bean oil interacted with mono and diglycerides of fatty acids",
-        "url": "http://e-additives.herokuapp.com/additives/479b"
+        "url": "http://e-additives.herokuapp.com/additives/479b",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "480",
         "last_update": "2013-10-07T19:42:47+0300",
         "name": "Dioctyl sodium sulphosuccinate",
-        "url": "http://e-additives.herokuapp.com/additives/480"
+        "url": "http://e-additives.herokuapp.com/additives/480",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "481",
         "last_update": "2013-10-07T19:42:47+0300",
         "name": "Sodium stearoyl-2-lactylate",
-        "url": "http://e-additives.herokuapp.com/additives/481"
+        "url": "http://e-additives.herokuapp.com/additives/481",
+        "type": "THICKENERS",
+        "description": "Prepared synthetically from Lactic Acid, used as a stabiliser and emulsifier.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "482",
         "last_update": "2013-10-07T19:42:47+0300",
         "name": "Calcium stearoyl-2-lactylate",
-        "url": "http://e-additives.herokuapp.com/additives/482"
+        "url": "http://e-additives.herokuapp.com/additives/482",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "483",
         "last_update": "2013-10-07T19:42:47+0300",
         "name": "Stearyl tartrate",
-        "url": "http://e-additives.herokuapp.com/additives/483"
+        "url": "http://e-additives.herokuapp.com/additives/483",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "491",
         "last_update": "2013-10-07T19:42:47+0300",
         "name": "Sorbitan monostearate",
-        "url": "http://e-additives.herokuapp.com/additives/491"
+        "url": "http://e-additives.herokuapp.com/additives/491",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "492",
         "last_update": "2013-10-07T19:42:47+0300",
         "name": "Sorbitan tristearate",
-        "url": "http://e-additives.herokuapp.com/additives/492"
+        "url": "http://e-additives.herokuapp.com/additives/492",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "493",
         "last_update": "2013-10-07T19:42:48+0300",
         "name": "Sorbitan monolaurate",
-        "url": "http://e-additives.herokuapp.com/additives/493"
+        "url": "http://e-additives.herokuapp.com/additives/493",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "494",
         "last_update": "2013-10-07T19:42:48+0300",
         "name": "Sorbitan monooleate",
-        "url": "http://e-additives.herokuapp.com/additives/494"
+        "url": "http://e-additives.herokuapp.com/additives/494",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "495",
         "last_update": "2013-10-07T19:42:48+0300",
         "name": "Sorbitan monopalmitate Sorbitan monopalmitate",
-        "url": "http://e-additives.herokuapp.com/additives/495"
+        "url": "http://e-additives.herokuapp.com/additives/495",
+        "type": "THICKENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "500",
         "last_update": "2013-10-07T19:42:48+0300",
         "name": "Sodium carbonates",
-        "url": "http://e-additives.herokuapp.com/additives/500"
+        "url": "http://e-additives.herokuapp.com/additives/500",
+        "type": "ACIDITY_REGULATORS",
+        "description": "Prepared synthetically for use as an acid regulator, firming agent, release agent, raising agent and diluent.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "501",
         "last_update": "2013-10-07T19:42:48+0300",
         "name": "Potassium carbonate",
-        "url": "http://e-additives.herokuapp.com/additives/501"
+        "url": "http://e-additives.herokuapp.com/additives/501",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "503",
         "last_update": "2013-10-07T19:42:48+0300",
         "name": "Ammonium carbonate",
-        "url": "http://e-additives.herokuapp.com/additives/503"
+        "url": "http://e-additives.herokuapp.com/additives/503",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "504",
         "last_update": "2013-10-07T19:42:48+0300",
         "name": "Magnesium carbonate",
-        "url": "http://e-additives.herokuapp.com/additives/504"
+        "url": "http://e-additives.herokuapp.com/additives/504",
+        "type": "ACIDITY_REGULATORS",
+        "description": "Naturally occurring mineral used as an anti-caking agent.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "507",
         "last_update": "2013-10-07T19:42:48+0300",
         "name": "Hydrochloric acid",
-        "url": "http://e-additives.herokuapp.com/additives/507"
+        "url": "http://e-additives.herokuapp.com/additives/507",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "508",
         "last_update": "2013-10-07T19:42:48+0300",
         "name": "Potassium chloride",
-        "url": "http://e-additives.herokuapp.com/additives/508"
+        "url": "http://e-additives.herokuapp.com/additives/508",
+        "type": "ACIDITY_REGULATORS",
+        "description": "Natural occurring chemical often associated with rock salt. Used as an emulsifier, stabiliser, salt substitute and dietary supplement.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "509",
         "last_update": "2013-10-07T19:42:49+0300",
         "name": "Calcium chloride",
-        "url": "http://e-additives.herokuapp.com/additives/509"
+        "url": "http://e-additives.herokuapp.com/additives/509",
+        "type": "ACIDITY_REGULATORS",
+        "description": "Product of natural salt brine, but more often prepared chemically. Used as a firming agent and to prevent texture deterioration.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "510",
         "last_update": "2013-10-07T19:42:49+0300",
         "name": "Ammonium chloride",
-        "url": "http://e-additives.herokuapp.com/additives/510"
+        "url": "http://e-additives.herokuapp.com/additives/510",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "511",
         "last_update": "2013-10-07T19:42:49+0300",
         "name": "Magnesium chloride",
-        "url": "http://e-additives.herokuapp.com/additives/511"
+        "url": "http://e-additives.herokuapp.com/additives/511",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "512",
         "last_update": "2013-10-07T19:42:49+0300",
         "name": "Stannous chloride",
-        "url": "http://e-additives.herokuapp.com/additives/512"
+        "url": "http://e-additives.herokuapp.com/additives/512",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "513",
         "last_update": "2013-10-07T19:42:49+0300",
         "name": "Sulfuric acid",
-        "url": "http://e-additives.herokuapp.com/additives/513"
+        "url": "http://e-additives.herokuapp.com/additives/513",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "514",
         "last_update": "2013-10-07T19:42:49+0300",
         "name": "Sodium sulfate",
-        "url": "http://e-additives.herokuapp.com/additives/514"
+        "url": "http://e-additives.herokuapp.com/additives/514",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "515",
         "last_update": "2013-10-07T19:42:49+0300",
         "name": "Potassium sulfate",
-        "url": "http://e-additives.herokuapp.com/additives/515"
+        "url": "http://e-additives.herokuapp.com/additives/515",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "516",
         "last_update": "2013-10-07T19:42:49+0300",
         "name": "Calcium sulfate",
-        "url": "http://e-additives.herokuapp.com/additives/516"
+        "url": "http://e-additives.herokuapp.com/additives/516",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "517",
         "last_update": "2013-10-07T19:42:49+0300",
         "name": "Ammonium sulfate",
-        "url": "http://e-additives.herokuapp.com/additives/517"
+        "url": "http://e-additives.herokuapp.com/additives/517",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "518",
         "last_update": "2013-10-07T19:42:50+0300",
         "name": "Magnesium sulphate",
-        "url": "http://e-additives.herokuapp.com/additives/518"
+        "url": "http://e-additives.herokuapp.com/additives/518",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "519",
         "last_update": "2013-10-07T19:42:50+0300",
         "name": "Copper sulphate",
-        "url": "http://e-additives.herokuapp.com/additives/519"
+        "url": "http://e-additives.herokuapp.com/additives/519",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "520",
         "last_update": "2013-10-07T19:42:50+0300",
         "name": "Aluminium sulphate",
-        "url": "http://e-additives.herokuapp.com/additives/520"
+        "url": "http://e-additives.herokuapp.com/additives/520",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "521",
         "last_update": "2013-10-07T19:42:50+0300",
         "name": "Aluminium sodium sulfate",
-        "url": "http://e-additives.herokuapp.com/additives/521"
+        "url": "http://e-additives.herokuapp.com/additives/521",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "522",
         "last_update": "2013-10-07T19:42:50+0300",
         "name": "Aluminium potassium sulfate",
-        "url": "http://e-additives.herokuapp.com/additives/522"
+        "url": "http://e-additives.herokuapp.com/additives/522",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "523",
         "last_update": "2013-10-07T19:42:50+0300",
         "name": "Aluminium ammonium sulfate",
-        "url": "http://e-additives.herokuapp.com/additives/523"
+        "url": "http://e-additives.herokuapp.com/additives/523",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "524",
         "last_update": "2013-10-07T19:42:50+0300",
         "name": "Sodium hydroxide",
-        "url": "http://e-additives.herokuapp.com/additives/524"
+        "url": "http://e-additives.herokuapp.com/additives/524",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "525",
         "last_update": "2013-10-07T19:42:50+0300",
         "name": "Potassium hydroxide",
-        "url": "http://e-additives.herokuapp.com/additives/525"
+        "url": "http://e-additives.herokuapp.com/additives/525",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "526",
         "last_update": "2013-10-07T19:42:50+0300",
         "name": "Calcium hydroxide",
-        "url": "http://e-additives.herokuapp.com/additives/526"
+        "url": "http://e-additives.herokuapp.com/additives/526",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "527",
         "last_update": "2013-10-07T19:42:50+0300",
         "name": "Ammonium hydroxide",
-        "url": "http://e-additives.herokuapp.com/additives/527"
+        "url": "http://e-additives.herokuapp.com/additives/527",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "528",
         "last_update": "2013-10-07T19:42:50+0300",
         "name": "Magnesium hydroxide",
-        "url": "http://e-additives.herokuapp.com/additives/528"
+        "url": "http://e-additives.herokuapp.com/additives/528",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "529",
         "last_update": "2013-10-07T19:42:51+0300",
         "name": "Calcium oxide",
-        "url": "http://e-additives.herokuapp.com/additives/529"
+        "url": "http://e-additives.herokuapp.com/additives/529",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "530",
         "last_update": "2013-10-07T19:42:51+0300",
         "name": "Magnesium oxide",
-        "url": "http://e-additives.herokuapp.com/additives/530"
+        "url": "http://e-additives.herokuapp.com/additives/530",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "535",
         "last_update": "2013-10-07T19:42:51+0300",
         "name": "Sodium ferrocyanide",
-        "url": "http://e-additives.herokuapp.com/additives/535"
+        "url": "http://e-additives.herokuapp.com/additives/535",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "536",
         "last_update": "2013-10-07T19:42:51+0300",
         "name": "Potassium ferrocyanide",
-        "url": "http://e-additives.herokuapp.com/additives/536"
+        "url": "http://e-additives.herokuapp.com/additives/536",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "538",
         "last_update": "2013-10-07T19:42:51+0300",
         "name": "Calcium ferrocyanide",
-        "url": "http://e-additives.herokuapp.com/additives/538"
+        "url": "http://e-additives.herokuapp.com/additives/538",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "540",
         "last_update": "2013-10-07T19:42:51+0300",
         "name": "Dicalcium diphosphate",
-        "url": "http://e-additives.herokuapp.com/additives/540"
+        "url": "http://e-additives.herokuapp.com/additives/540",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "541",
         "last_update": "2013-10-07T19:42:51+0300",
         "name": "Sodium aluminium phosphate",
-        "url": "http://e-additives.herokuapp.com/additives/541"
+        "url": "http://e-additives.herokuapp.com/additives/541",
+        "type": "ACIDITY_REGULATORS",
+        "description": "Synthetically prepared raising agent.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "542",
         "last_update": "2013-10-07T19:42:51+0300",
         "name": "Bone phosphate",
-        "url": "http://e-additives.herokuapp.com/additives/542"
+        "url": "http://e-additives.herokuapp.com/additives/542",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "544",
         "last_update": "2013-10-07T19:42:51+0300",
         "name": "Calcium polyphosphates",
-        "url": "http://e-additives.herokuapp.com/additives/544"
+        "url": "http://e-additives.herokuapp.com/additives/544",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "545",
         "last_update": "2013-10-07T19:42:52+0300",
         "name": "Ammonium polyphosphates",
-        "url": "http://e-additives.herokuapp.com/additives/545"
+        "url": "http://e-additives.herokuapp.com/additives/545",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "551",
         "last_update": "2013-10-07T19:42:52+0300",
         "name": "Silicon dioxide",
-        "url": "http://e-additives.herokuapp.com/additives/551"
+        "url": "http://e-additives.herokuapp.com/additives/551",
+        "type": "ACIDITY_REGULATORS",
+        "description": "Derived from sand. Used as an anti-caking agent.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "552",
         "last_update": "2013-10-07T19:42:52+0300",
         "name": "Calcium silicate",
-        "url": "http://e-additives.herokuapp.com/additives/552"
+        "url": "http://e-additives.herokuapp.com/additives/552",
+        "type": "ACIDITY_REGULATORS",
+        "description": "Salt of Silicon Dioxide with similar functions. Also used as a glazing agent, acid regulator, releasing agent and as a coating agent.",
+        "harmfulness": "SAFE"
     },
     {
         "code": "553a",
         "last_update": "2013-10-07T19:42:52+0300",
         "name": "Magnesium silicate",
-        "url": "http://e-additives.herokuapp.com/additives/553a"
+        "url": "http://e-additives.herokuapp.com/additives/553a",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "553b",
         "last_update": "2013-10-07T19:42:52+0300",
         "name": "Talc",
-        "url": "http://e-additives.herokuapp.com/additives/553b"
+        "url": "http://e-additives.herokuapp.com/additives/553b",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "554",
         "last_update": "2013-10-07T19:42:52+0300",
         "name": "Sodium aluminium silicate",
-        "url": "http://e-additives.herokuapp.com/additives/554"
+        "url": "http://e-additives.herokuapp.com/additives/554",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "555",
         "last_update": "2013-10-07T19:42:52+0300",
         "name": "Potassium aluminium silicate",
-        "url": "http://e-additives.herokuapp.com/additives/555"
+        "url": "http://e-additives.herokuapp.com/additives/555",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "556",
         "last_update": "2013-10-07T19:42:52+0300",
         "name": "Aluminium calcium silicate",
-        "url": "http://e-additives.herokuapp.com/additives/556"
+        "url": "http://e-additives.herokuapp.com/additives/556",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "558",
         "last_update": "2013-10-07T19:42:52+0300",
         "name": "Bentonite",
-        "url": "http://e-additives.herokuapp.com/additives/558"
+        "url": "http://e-additives.herokuapp.com/additives/558",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "559",
         "last_update": "2013-10-07T19:42:52+0300",
         "name": "Aluminium silicate, kaolin",
-        "url": "http://e-additives.herokuapp.com/additives/559"
+        "url": "http://e-additives.herokuapp.com/additives/559",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "570",
         "last_update": "2013-10-07T19:42:53+0300",
         "name": "Fatty acids",
-        "url": "http://e-additives.herokuapp.com/additives/570"
+        "url": "http://e-additives.herokuapp.com/additives/570",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "574",
         "last_update": "2013-10-07T19:42:53+0300",
         "name": "Gluconic acid",
-        "url": "http://e-additives.herokuapp.com/additives/574"
+        "url": "http://e-additives.herokuapp.com/additives/574",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "575",
         "last_update": "2013-10-07T19:42:53+0300",
         "name": "Glucono delta lactone",
-        "url": "http://e-additives.herokuapp.com/additives/575"
+        "url": "http://e-additives.herokuapp.com/additives/575",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "576",
         "last_update": "2013-10-07T19:42:53+0300",
         "name": "Sodium gluconate",
-        "url": "http://e-additives.herokuapp.com/additives/576"
+        "url": "http://e-additives.herokuapp.com/additives/576",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "577",
         "last_update": "2013-10-07T19:42:53+0300",
         "name": "Potassium gluconate",
-        "url": "http://e-additives.herokuapp.com/additives/577"
+        "url": "http://e-additives.herokuapp.com/additives/577",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "578",
         "last_update": "2013-10-07T19:42:53+0300",
         "name": "Calcium gluconate",
-        "url": "http://e-additives.herokuapp.com/additives/578"
+        "url": "http://e-additives.herokuapp.com/additives/578",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "579",
         "last_update": "2013-10-07T19:42:53+0300",
         "name": "Ferrous gluconate",
-        "url": "http://e-additives.herokuapp.com/additives/579"
+        "url": "http://e-additives.herokuapp.com/additives/579",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "585",
         "last_update": "2013-10-07T19:42:53+0300",
         "name": "Ferrous lactate",
-        "url": "http://e-additives.herokuapp.com/additives/585"
+        "url": "http://e-additives.herokuapp.com/additives/585",
+        "type": "ACIDITY_REGULATORS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "620",
         "last_update": "2013-10-07T19:42:53+0300",
         "name": "Glutamic acid",
-        "url": "http://e-additives.herokuapp.com/additives/620"
+        "url": "http://e-additives.herokuapp.com/additives/620",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "Naturally occurring amino acid obtained from protein but generally manufactured by bacterial fermentation of carbohydrates. Used as a flavour enhancer and salt substitute.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "621",
         "last_update": "2013-10-07T19:42:54+0300",
         "name": "Monosodium glutamate",
-        "url": "http://e-additives.herokuapp.com/additives/621"
+        "url": "http://e-additives.herokuapp.com/additives/621",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "Present naturally in seaweed but generally prepared chemically from sugar beet. Flavour enhancer of protein rich foods.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "622",
         "last_update": "2013-10-07T19:42:54+0300",
         "name": "Monopotassium glutamate",
-        "url": "http://e-additives.herokuapp.com/additives/622"
+        "url": "http://e-additives.herokuapp.com/additives/622",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "Similar to Monosodium Glutamate.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "623",
         "last_update": "2013-10-07T19:42:54+0300",
         "name": "Calcium diglutamate",
-        "url": "http://e-additives.herokuapp.com/additives/623"
+        "url": "http://e-additives.herokuapp.com/additives/623",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "624",
         "last_update": "2013-10-07T19:42:54+0300",
         "name": "Monoammonium glutamate",
-        "url": "http://e-additives.herokuapp.com/additives/624"
+        "url": "http://e-additives.herokuapp.com/additives/624",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "625",
         "last_update": "2013-10-07T19:42:54+0300",
         "name": "Magnesium diglutamate",
-        "url": "http://e-additives.herokuapp.com/additives/625"
+        "url": "http://e-additives.herokuapp.com/additives/625",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "626",
         "last_update": "2013-10-07T19:42:54+0300",
         "name": "Guanylic acid",
-        "url": "http://e-additives.herokuapp.com/additives/626"
+        "url": "http://e-additives.herokuapp.com/additives/626",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "627",
         "last_update": "2013-10-07T19:42:54+0300",
         "name": "Disodium guanylate",
-        "url": "http://e-additives.herokuapp.com/additives/627"
+        "url": "http://e-additives.herokuapp.com/additives/627",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "Occurs naturally in sardines and yeast extract but generally manufactured synthetically. Used as a flavour enhancer.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "628",
         "last_update": "2013-10-07T19:42:54+0300",
         "name": "Dipotassium guanylate",
-        "url": "http://e-additives.herokuapp.com/additives/628"
+        "url": "http://e-additives.herokuapp.com/additives/628",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "629",
         "last_update": "2013-10-07T19:42:54+0300",
         "name": "Calcium guanylate",
-        "url": "http://e-additives.herokuapp.com/additives/629"
+        "url": "http://e-additives.herokuapp.com/additives/629",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "630",
         "last_update": "2013-10-07T19:42:55+0300",
         "name": "Inosinic acid",
-        "url": "http://e-additives.herokuapp.com/additives/630"
+        "url": "http://e-additives.herokuapp.com/additives/630",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "631",
         "last_update": "2013-10-07T19:42:55+0300",
         "name": "Disodium inosinate",
-        "url": "http://e-additives.herokuapp.com/additives/631"
+        "url": "http://e-additives.herokuapp.com/additives/631",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "Made from sardines and meat extract.",
+        "harmfulness": "POTENTIALLY_DANGEROUS"
     },
     {
         "code": "632",
         "last_update": "2013-10-07T19:42:55+0300",
         "name": "Dipotassium inosinate",
-        "url": "http://e-additives.herokuapp.com/additives/632"
+        "url": "http://e-additives.herokuapp.com/additives/632",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "633",
         "last_update": "2013-10-07T19:42:55+0300",
         "name": "Calcium inosinate",
-        "url": "http://e-additives.herokuapp.com/additives/633"
+        "url": "http://e-additives.herokuapp.com/additives/633",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "634",
         "last_update": "2013-10-07T19:42:55+0300",
         "name": "Calcium 5'-ribonucleotides",
-        "url": "http://e-additives.herokuapp.com/additives/634"
+        "url": "http://e-additives.herokuapp.com/additives/634",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "635",
         "last_update": "2013-10-07T19:42:55+0300",
         "name": "Disodium 5'-ribonucleotides",
-        "url": "http://e-additives.herokuapp.com/additives/635"
+        "url": "http://e-additives.herokuapp.com/additives/635",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "Mixture of 627 and 631.",
+        "harmfulness": "DANGEROUS"
     },
     {
         "code": "636",
         "last_update": "2013-10-07T19:42:55+0300",
         "name": "Maltol",
-        "url": "http://e-additives.herokuapp.com/additives/636"
+        "url": "http://e-additives.herokuapp.com/additives/636",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "637",
         "last_update": "2013-10-07T19:42:55+0300",
         "name": "Ethyl maltol",
-        "url": "http://e-additives.herokuapp.com/additives/637"
+        "url": "http://e-additives.herokuapp.com/additives/637",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "640",
         "last_update": "2013-10-07T19:42:55+0300",
         "name": "Glycine and its sodium salt",
-        "url": "http://e-additives.herokuapp.com/additives/640"
+        "url": "http://e-additives.herokuapp.com/additives/640",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "650",
         "last_update": "2013-10-07T19:42:55+0300",
         "name": "Zinc acetate",
-        "url": "http://e-additives.herokuapp.com/additives/650"
+        "url": "http://e-additives.herokuapp.com/additives/650",
+        "type": "FLAVOUR_ENHANCERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "SAFE"
     },
     {
         "code": "710",
         "last_update": "2013-10-07T19:42:56+0300",
         "name": "Spiramycins",
-        "url": "http://e-additives.herokuapp.com/additives/710"
+        "url": "http://e-additives.herokuapp.com/additives/710",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "713",
         "last_update": "2013-10-07T19:42:56+0300",
         "name": "Tylosin",
-        "url": "http://e-additives.herokuapp.com/additives/713"
+        "url": "http://e-additives.herokuapp.com/additives/713",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "900",
         "last_update": "2013-10-07T19:42:56+0300",
         "name": "Dimethylpolysiloxane",
-        "url": "http://e-additives.herokuapp.com/additives/900"
+        "url": "http://e-additives.herokuapp.com/additives/900",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "901",
         "last_update": "2013-10-07T19:42:56+0300",
         "name": "Beeswax",
-        "url": "http://e-additives.herokuapp.com/additives/901"
+        "url": "http://e-additives.herokuapp.com/additives/901",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "902",
         "last_update": "2013-10-07T19:42:56+0300",
         "name": "Candelilla wax",
-        "url": "http://e-additives.herokuapp.com/additives/902"
+        "url": "http://e-additives.herokuapp.com/additives/902",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "903",
         "last_update": "2013-10-07T19:42:56+0300",
         "name": "Carnauba wax",
-        "url": "http://e-additives.herokuapp.com/additives/903"
+        "url": "http://e-additives.herokuapp.com/additives/903",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "904",
         "last_update": "2013-10-07T19:42:56+0300",
         "name": "Shellac",
-        "url": "http://e-additives.herokuapp.com/additives/904"
+        "url": "http://e-additives.herokuapp.com/additives/904",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "905",
         "last_update": "2013-10-07T19:42:56+0300",
         "name": "Microcrystalline wax",
-        "url": "http://e-additives.herokuapp.com/additives/905"
+        "url": "http://e-additives.herokuapp.com/additives/905",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "907",
         "last_update": "2013-10-07T19:42:56+0300",
         "name": "Refined microcrystalline wax",
-        "url": "http://e-additives.herokuapp.com/additives/907"
+        "url": "http://e-additives.herokuapp.com/additives/907",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "912",
         "last_update": "2013-10-07T19:42:57+0300",
         "name": "Montan acid esters",
-        "url": "http://e-additives.herokuapp.com/additives/912"
+        "url": "http://e-additives.herokuapp.com/additives/912",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "913",
         "last_update": "2013-10-07T19:42:57+0300",
         "name": "Lanolin",
-        "url": "http://e-additives.herokuapp.com/additives/913"
+        "url": "http://e-additives.herokuapp.com/additives/913",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "914",
         "last_update": "2013-10-07T19:42:57+0300",
         "name": "Oxidised polyethylene wax",
-        "url": "http://e-additives.herokuapp.com/additives/914"
+        "url": "http://e-additives.herokuapp.com/additives/914",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "920",
         "last_update": "2013-10-07T19:42:57+0300",
         "name": "L-cysteine",
-        "url": "http://e-additives.herokuapp.com/additives/920"
+        "url": "http://e-additives.herokuapp.com/additives/920",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "921",
         "last_update": "2013-10-07T19:42:57+0300",
         "name": "L-Cystin",
-        "url": "http://e-additives.herokuapp.com/additives/921"
+        "url": "http://e-additives.herokuapp.com/additives/921",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "924",
         "last_update": "2013-10-07T19:42:57+0300",
         "name": "Potassium bromate",
-        "url": "http://e-additives.herokuapp.com/additives/924"
+        "url": "http://e-additives.herokuapp.com/additives/924",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "925",
         "last_update": "2013-10-07T19:42:57+0300",
         "name": "Chlorine",
-        "url": "http://e-additives.herokuapp.com/additives/925"
+        "url": "http://e-additives.herokuapp.com/additives/925",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "926",
         "last_update": "2013-10-07T19:42:57+0300",
         "name": "Chlorine dioxide",
-        "url": "http://e-additives.herokuapp.com/additives/926"
+        "url": "http://e-additives.herokuapp.com/additives/926",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "927b",
         "last_update": "2013-10-07T19:42:57+0300",
         "name": "Carbamide",
-        "url": "http://e-additives.herokuapp.com/additives/927b"
+        "url": "http://e-additives.herokuapp.com/additives/927b",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "928",
         "last_update": "2013-10-07T19:42:57+0300",
         "name": "Benzoyl peroxide",
-        "url": "http://e-additives.herokuapp.com/additives/928"
+        "url": "http://e-additives.herokuapp.com/additives/928",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "931",
         "last_update": "2013-10-07T19:42:57+0300",
         "name": "Nitrogen",
-        "url": "http://e-additives.herokuapp.com/additives/931"
+        "url": "http://e-additives.herokuapp.com/additives/931",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "932",
         "last_update": "2013-10-07T19:42:58+0300",
         "name": "Nitrous oxide",
-        "url": "http://e-additives.herokuapp.com/additives/932"
+        "url": "http://e-additives.herokuapp.com/additives/932",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "938",
         "last_update": "2013-10-07T19:42:58+0300",
         "name": "Argon",
-        "url": "http://e-additives.herokuapp.com/additives/938"
+        "url": "http://e-additives.herokuapp.com/additives/938",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "939",
         "last_update": "2013-10-07T19:42:58+0300",
         "name": "Helium",
-        "url": "http://e-additives.herokuapp.com/additives/939"
+        "url": "http://e-additives.herokuapp.com/additives/939",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "941",
         "last_update": "2013-10-07T19:42:58+0300",
         "name": "Nitrogen",
-        "url": "http://e-additives.herokuapp.com/additives/941"
+        "url": "http://e-additives.herokuapp.com/additives/941",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "942",
         "last_update": "2013-10-07T19:42:58+0300",
         "name": "Nitrous oxide",
-        "url": "http://e-additives.herokuapp.com/additives/942"
+        "url": "http://e-additives.herokuapp.com/additives/942",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "943a",
         "last_update": "2013-10-07T19:42:58+0300",
         "name": "Butane",
-        "url": "http://e-additives.herokuapp.com/additives/943a"
+        "url": "http://e-additives.herokuapp.com/additives/943a",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "943b",
         "last_update": "2013-10-07T19:42:58+0300",
         "name": "Iso-butane",
-        "url": "http://e-additives.herokuapp.com/additives/943b"
+        "url": "http://e-additives.herokuapp.com/additives/943b",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "944",
         "last_update": "2013-10-07T19:42:58+0300",
         "name": "Propane",
-        "url": "http://e-additives.herokuapp.com/additives/944"
+        "url": "http://e-additives.herokuapp.com/additives/944",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "948",
         "last_update": "2013-10-07T19:42:58+0300",
         "name": "Oxygen",
-        "url": "http://e-additives.herokuapp.com/additives/948"
+        "url": "http://e-additives.herokuapp.com/additives/948",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "949",
         "last_update": "2013-10-07T19:42:58+0300",
         "name": "Hydrogen",
-        "url": "http://e-additives.herokuapp.com/additives/949"
+        "url": "http://e-additives.herokuapp.com/additives/949",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "950",
         "last_update": "2013-10-07T19:42:58+0300",
         "name": "Acesulphane potassium",
-        "url": "http://e-additives.herokuapp.com/additives/950"
+        "url": "http://e-additives.herokuapp.com/additives/950",
+        "type": "SWEETENERS",
+        "description": "Sweeteners",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "951",
         "last_update": "2013-10-07T19:42:58+0300",
         "name": "Aspartame",
-        "url": "http://e-additives.herokuapp.com/additives/951"
+        "url": "http://e-additives.herokuapp.com/additives/951",
+        "type": "SWEETENERS",
+        "description": "New artificial sweetener of protein origin. Contains phenylalanine.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "952",
         "last_update": "2013-10-07T19:42:59+0300",
         "name": "Cyclamic acid and its Na and Ca salts",
-        "url": "http://e-additives.herokuapp.com/additives/952"
+        "url": "http://e-additives.herokuapp.com/additives/952",
+        "type": "SWEETENERS",
+        "description": "Sweeteners",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "953",
         "last_update": "2013-10-07T19:42:59+0300",
         "name": "lsomalt",
-        "url": "http://e-additives.herokuapp.com/additives/953"
+        "url": "http://e-additives.herokuapp.com/additives/953",
+        "type": "SWEETENERS",
+        "description": "Sweeteners",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "954",
         "last_update": "2013-10-07T19:42:59+0300",
         "name": "Saccharin and its Na, K and Ca salts",
-        "url": "http://e-additives.herokuapp.com/additives/954"
+        "url": "http://e-additives.herokuapp.com/additives/954",
+        "type": "SWEETENERS",
+        "description": "Calorie-free artificial sweetener.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "955",
         "last_update": "2013-10-07T19:42:59+0300",
         "name": "Sucralose",
-        "url": "http://e-additives.herokuapp.com/additives/955"
+        "url": "http://e-additives.herokuapp.com/additives/955",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "957",
         "last_update": "2013-10-07T19:42:59+0300",
         "name": "Thaumatin",
-        "url": "http://e-additives.herokuapp.com/additives/957"
+        "url": "http://e-additives.herokuapp.com/additives/957",
+        "type": "SWEETENERS",
+        "description": "Sweeteners",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "959",
         "last_update": "2013-10-07T19:42:59+0300",
         "name": "Neohesperidine DC",
-        "url": "http://e-additives.herokuapp.com/additives/959"
+        "url": "http://e-additives.herokuapp.com/additives/959",
+        "type": "SWEETENERS",
+        "description": "Sweeteners",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "965",
         "last_update": "2013-10-07T19:42:59+0300",
         "name": "Maltitol; Maltitol syrup",
-        "url": "http://e-additives.herokuapp.com/additives/965"
+        "url": "http://e-additives.herokuapp.com/additives/965",
+        "type": "SWEETENERS",
+        "description": "Natural occurring sugar in grapes, corn, etc.",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "966",
         "last_update": "2013-10-07T19:42:59+0300",
         "name": "Lactitol",
-        "url": "http://e-additives.herokuapp.com/additives/966"
+        "url": "http://e-additives.herokuapp.com/additives/966",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "967",
         "last_update": "2013-10-07T19:42:59+0300",
         "name": "Xylitol",
-        "url": "http://e-additives.herokuapp.com/additives/967"
+        "url": "http://e-additives.herokuapp.com/additives/967",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     },
     {
         "code": "999",
         "last_update": "2013-10-07T19:42:59+0300",
         "name": "Quillaia extract",
-        "url": "http://e-additives.herokuapp.com/additives/999"
+        "url": "http://e-additives.herokuapp.com/additives/999",
+        "type": "SWEETENERS",
+        "description": "No description for this additive yet",
+        "harmfulness": "NO_INFO"
     }
 ]

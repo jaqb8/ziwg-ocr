@@ -21,3 +21,6 @@
 .webcam-preview {
   max-width: 100vw;
 }
+.alert-danger {
+  margin-bottom: 0rem;
+}

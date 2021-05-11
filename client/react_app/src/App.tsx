@@ -2,17 +2,12 @@ import Decription from './components/Decription';
 import CameraButton from './components/CameraButton';
 import UploadButton from './components/UploadButton';
 import ReturnButton from './components/ReturnButton';
+import ErrorModal from './components/ErrorModal'
 import './styles.css';
 import { MyContext } from './state_management/context';
 import EAdditiveList from './components/EAdditiveList';
 import { useContext, useState } from 'react';
 import WebcamPage from './components/WebcamPage';
-
-const testObject = {
-  code: 803,
-  name: 'An additive name',
-  description: 'some description of E-additive',
-};
 
 function App() {
   const { state } = useContext(MyContext);
@@ -41,13 +36,14 @@ function App() {
         {state.status === 'loading' && <div>Loading...</div>}
         {state.status === 'error' && (
           <>
-            <div>{state.error}</div>
-            <ReturnButton />
+            <CameraButton />
+            <UploadButton />
+            <ErrorModal/>
           </>
         )}
         {state.status === 'displaying-data' && (
           <>
-            <EAdditiveList list={[testObject, testObject]} />
+            <EAdditiveList list={state.data.eadditives} />
             <ReturnButton />
           </>
         )}
