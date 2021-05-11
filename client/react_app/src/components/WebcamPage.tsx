@@ -1,15 +1,18 @@
-import { useState, useRef, useCallback, useEffect } from 'react';
+import { useState, useRef, useCallback, useEffect, useContext } from 'react';
 import { Button } from 'react-bootstrap';
 import Webcam from 'react-webcam';
 import GenericButton from './GenericButton';
 import ReturnButton from './ReturnButton';
 import postImage from '../state_management/methods/postImage';
+import { MyContext } from '../state_management/context';
 
 interface Props {
   setInstruction: (newInstruction: string) => void;
 }
 
 const WebcamPage = ({ setInstruction }: Props) => {
+  const { dispatch } = useContext(MyContext);
+
   const webcamRef = useRef<Webcam>(null);
 
   const [imageSource, setImageSource] = useState<string>('');
@@ -17,14 +20,18 @@ const WebcamPage = ({ setInstruction }: Props) => {
 
   const capture = useCallback(() => {
     if (!!webcamRef.current) {
-      const imageSrc = webcamRef.current.getScreenshot();
+      const imageSrc = webcamRef.current.getScreenshot() as string;
+      console.log(imageSrc.replace(/^data:image\/(png|jpg);base64,/, ''));
       setImageSource(imageSrc as string);
     }
   }, [webcamRef, setImageSource]);
 
   const reset = () => setImageSource('');
-  const post = () => {
-    // postImage();
+  const postImageUrl = () => {
+    // var formData = new FormData();
+    // formData.append('image', imageSource);
+
+    postImage(imageSource, dispatch);
   };
 
   const noCameraInput =
@@ -58,7 +65,7 @@ const WebcamPage = ({ setInstruction }: Props) => {
         <Button
           variant='success'
           className='half-button-size p-2 ml-1'
-          onClick={post}
+          onClick={postImageUrl}
         >
           <i className='fas fa-check' /> Confirm
         </Button>
@@ -73,7 +80,7 @@ const WebcamPage = ({ setInstruction }: Props) => {
         ref={webcamRef}
         screenshotFormat='image/png'
       />
-      <div>
+      <div className='d-flex flex-column'>
         <GenericButton
           iconClass='fas fa-camera'
           text='Capture photo'

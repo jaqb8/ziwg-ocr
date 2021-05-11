@@ -30,7 +30,7 @@ function App() {
           )}
         </div>
         {state.status === 'start' && (
-          <div>
+          <div className='d-flex flex-column'>
             <CameraButton />
             <UploadButton />
           </div>
