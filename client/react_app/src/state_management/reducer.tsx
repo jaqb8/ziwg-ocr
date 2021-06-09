@@ -5,6 +5,9 @@ function reducer(state: State, action: Action): State {
     case 'start':
       return { status: 'start' };
 
+    case 'offline':
+      return { status: 'offline' };
+
     case 'start-loading':
       return { status: 'loading' };
 

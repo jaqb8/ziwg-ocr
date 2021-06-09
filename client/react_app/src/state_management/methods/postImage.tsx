@@ -39,7 +39,12 @@ const postImage = async (fileList: FileList, dispatch: Dispatch<Action>) => {
         dispatch({ type: 'additive-data-received', response: response.data })
       )
       .catch((error) => {
-        dispatch({ type: 'image-sending-failure', error: error.message });
+        if(!window.navigator.onLine){
+          dispatch({ type: 'offline' })
+        }
+        else{
+          dispatch({ type: 'image-sending-failure', error: error.message });
+        }
       });
   }
 };
