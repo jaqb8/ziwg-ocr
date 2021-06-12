@@ -2,7 +2,7 @@ import Decription from './components/Decription';
 import CameraButton from './components/CameraButton';
 import UploadButton from './components/UploadButton';
 import ReturnButton from './components/ReturnButton';
-import ErrorModal from './components/ErrorModal'
+import ErrorModal from './components/ErrorModal';
 import './styles.css';
 import { MyContext } from './state_management/context';
 import EAdditiveList from './components/EAdditiveList';
@@ -16,7 +16,7 @@ function App() {
   return (
     <div className='page-size d-flex align-items-center justify-content-center'>
       <div className='body-size w-75 h-75 d-flex flex-column justify-content-around text-center align-items-center'>
-        <div>
+        <div className='mt-2 d-flex flex-column align-items-center'>
           <h3>Product Composition Recognizer</h3>
           {state.status === 'webcam-page' ? (
             <div className='lead description-size'>{webcamInstruction}</div>
@@ -38,7 +38,7 @@ function App() {
           <>
             <CameraButton />
             <UploadButton />
-            <ErrorModal/>
+            <ErrorModal />
           </>
         )}
         {state.status === 'displaying-data' && (
