@@ -7,7 +7,7 @@ function reducer(state: State, action: Action): State {
 
     case 'open-webcam':
       return { status: 'webcam-page' };
-      
+
     case 'offline':
       return { status: 'offline' };
 
@@ -15,7 +15,7 @@ function reducer(state: State, action: Action): State {
       return { status: 'loading' };
 
     case 'image-sending-failure':
-      return { status: 'error', error: action.error };
+      return { status: 'error', error: action.errorMessage };
 
     case 'additive-data-received':
       return { status: 'displaying-data', data: action.response };

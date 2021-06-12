@@ -15,5 +15,5 @@ export type Action =
   | { type: 'open-webcam' }
   | { type: 'offline' }
   | { type: 'start-loading' }
-  | { type: 'image-sending-failure'; error: string }
+  | { type: 'image-sending-failure'; errorMessage: string }
   | { type: 'additive-data-received'; response: [] };

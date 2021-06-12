@@ -26,12 +26,12 @@ const UploadButton = (props: Props) => {
     if (fileList!.length > 1) {
       dispatch({
         type: 'image-sending-failure',
-        error: 'Too many images selected',
+        errorMessage: 'Too many images selected',
       });
     } else if (!checkIfSupportedType(fileList!)) {
       dispatch({
         type: 'image-sending-failure',
-        error: 'Image type not supported',
+        errorMessage: 'Image type not supported',
       });
     } else {
       dispatch({ type: 'start-loading' });
