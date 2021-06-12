@@ -2,7 +2,7 @@ import axios from 'axios';
 import { Dispatch } from 'react';
 import { Action } from '../types';
 
-const postImage = async (image: string | Blob, dispatch: Dispatch<Action>) => {
+const postImage = async (image: File, dispatch: Dispatch<Action>) => {
   dispatch({ type: 'start-loading' });
 
   var formData = new FormData();

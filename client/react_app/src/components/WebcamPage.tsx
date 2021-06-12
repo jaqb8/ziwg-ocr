@@ -5,6 +5,7 @@ import GenericButton from './GenericButton';
 import ReturnButton from './ReturnButton';
 import postImage from '../state_management/methods/postImage';
 import { MyContext } from '../state_management/context';
+import { urlToFile } from '../utility/urlToFile';
 
 interface Props {
   setInstruction: (newInstruction: string) => void;
@@ -28,10 +29,8 @@ const WebcamPage = ({ setInstruction }: Props) => {
 
   const reset = () => setImageSource('');
   const postImageUrl = () => {
-    // var formData = new FormData();
-    // formData.append('image', imageSource);
-
-    postImage(imageSource, dispatch);
+    const file = urlToFile(imageSource);
+    postImage(file, dispatch);
   };
 
   const noCameraInput =
