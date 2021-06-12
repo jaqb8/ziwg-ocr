@@ -4,6 +4,7 @@ import UploadButton from './components/UploadButton';
 import ReturnButton from './components/ReturnButton';
 import ErrorModal from './components/ErrorModal';
 import OfflineModal from './components/OfflineModal';
+import EmptyListModal from './components/EmptyListModal';
 import './styles.css';
 import { MyContext } from './state_management/context';
 import EAdditiveList from './components/EAdditiveList';
@@ -46,13 +47,14 @@ function App() {
           <>
             <CameraButton />
             <UploadButton />
-            <OfflineModal/>
+            <OfflineModal />
           </>
         )}
         {state.status === 'displaying-data' && (
           <>
             <EAdditiveList list={state.data.eadditives} />
             <ReturnButton />
+            {state.data.eadditives.length === 0 && <EmptyListModal />}
           </>
         )}
       </div>

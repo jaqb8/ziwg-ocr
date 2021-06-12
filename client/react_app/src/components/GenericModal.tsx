@@ -7,10 +7,11 @@ import Modal from 'react-bootstrap/Modal'
 interface Props {
     variant: string,
     alert_heading: string,
-    alert_text: string
+    alert_text: string,
+    children?: React.ReactNode,
 }
 
-const GenericModal = ({ variant, alert_heading, alert_text }: Props) => {
+const GenericModal = ({ variant, alert_heading, alert_text, children }: Props) => {
   
   const { dispatch } = useContext(MyContext);
 
@@ -37,6 +38,7 @@ const GenericModal = ({ variant, alert_heading, alert_text }: Props) => {
             </Alert.Heading>
             <p>
                 {alert_text}
+                {children}
             </p>
             <p />
             <hr />
