@@ -2,9 +2,10 @@ export type State = {
   status:
     | 'start'
     | 'webcam-page'
+    | 'offline'
     | 'loading'
     | 'error'
-    | 'displaying-data';
+    | 'displaying-data'
   error?: string;
   data?: any;
 };
@@ -12,6 +13,7 @@ export type State = {
 export type Action =
   | { type: 'start' }
   | { type: 'open-webcam' }
+  | { type: 'offline' }
   | { type: 'start-loading' }
   | { type: 'image-sending-failure'; error: string }
   | { type: 'additive-data-received'; response: [] };

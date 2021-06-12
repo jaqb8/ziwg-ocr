@@ -3,6 +3,7 @@ import CameraButton from './components/CameraButton';
 import UploadButton from './components/UploadButton';
 import ReturnButton from './components/ReturnButton';
 import ErrorModal from './components/ErrorModal';
+import OfflineModal from './components/OfflineModal';
 import './styles.css';
 import { MyContext } from './state_management/context';
 import EAdditiveList from './components/EAdditiveList';
@@ -39,6 +40,13 @@ function App() {
             <CameraButton />
             <UploadButton />
             <ErrorModal />
+          </>
+        )}
+        {state.status === 'offline' && (
+          <>
+            <CameraButton />
+            <UploadButton />
+            <OfflineModal/>
           </>
         )}
         {state.status === 'displaying-data' && (
