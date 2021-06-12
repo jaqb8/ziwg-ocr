@@ -22,7 +22,6 @@ const WebcamPage = ({ setInstruction }: Props) => {
   const capture = useCallback(() => {
     if (!!webcamRef.current) {
       const imageSrc = webcamRef.current.getScreenshot() as string;
-      console.log(imageSrc.replace(/^data:image\/(png|jpg);base64,/, ''));
       setImageSource(imageSrc as string);
     }
   }, [webcamRef, setImageSource]);
