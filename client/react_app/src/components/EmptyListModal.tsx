@@ -7,10 +7,8 @@ const EmptyListModal = (props: Props) => {
     <GenericModal
       variant='primary'
       alert_heading='There is nothing here...'
-      alert_text='It seems like no e-additives was recognized in your photo  '
-    >
-      <i className='far fa-frown' />
-    </GenericModal>
+      alert_text='It seems like no e-additives was recognized in your photo.'
+    />
   );
 };
 
