@@ -4,6 +4,12 @@ import { getErrorMessage } from '../../utility/errorMessages';
 import { Action } from '../types';
 
 const postImage = async (image: File, dispatch: Dispatch<Action>) => {
+  
+  if(!window.navigator.onLine){
+    dispatch({ type: 'offline' })
+    return;
+  }
+
   dispatch({ type: 'start-loading' });
 
   var formData = new FormData();
@@ -19,13 +25,8 @@ const postImage = async (image: File, dispatch: Dispatch<Action>) => {
       dispatch({ type: 'additive-data-received', response: response.data })
     )
     .catch((error) => {
-        if(!window.navigator.onLine){
-          dispatch({ type: 'offline' })
-        }
-        else{
-          dispatch({ type: 'image-sending-failure', errorMessage: getErrorMessage(error) });
-        }
-      });
+      dispatch({ type: 'image-sending-failure', errorMessage: getErrorMessage(error) });
+    });
 };
 
 export default postImage;
