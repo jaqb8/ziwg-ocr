@@ -1,5 +1,6 @@
 import axios from 'axios';
 import { Dispatch } from 'react';
+import { getErrorMessage } from '../../utility/errorMessages';
 import { Action } from '../types';
 
 const postImage = async (image: File, dispatch: Dispatch<Action>) => {
@@ -22,7 +23,7 @@ const postImage = async (image: File, dispatch: Dispatch<Action>) => {
           dispatch({ type: 'offline' })
         }
         else{
-          dispatch({ type: 'image-sending-failure', error: error.message });
+          dispatch({ type: 'image-sending-failure', errorMessage: getErrorMessage(error) });
         }
       });
 };
