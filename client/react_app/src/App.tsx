@@ -37,13 +37,13 @@ function App() {
         )}
         {state.status === 'loading' && <div>Loading...</div>}
         {state.status === 'error' && (
-          <div>
+          <>
           <div className='d-flex flex-column'>
             <CameraButton />
             <UploadButton />
           </div>
             <ErrorModal />
-          </div>
+          </>
         )}
         {state.status === 'offline' && (
           <>
