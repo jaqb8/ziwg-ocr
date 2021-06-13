@@ -1,12 +1,5 @@
-.page-size {
-  min-height: 100vh;
-  max-height: 100vh;
-  min-width: 100vw;
-  max-width: 100vw;
-}
 .body-size {
-  min-height: 70vh;
-  max-height: 70vh;
+  min-height: 90vh;
 }
 .description-size {
   max-width: min(1050px, 70vw);
@@ -15,7 +8,12 @@
 .button-size {
   width: min(85vw, 450px);
 }
-
+.half-button-size {
+  width: min(42vw, 225px);
+}
+.webcam-preview {
+  max-width: 100vw;
+}
 .alert {
   margin-bottom: 0rem;
 }

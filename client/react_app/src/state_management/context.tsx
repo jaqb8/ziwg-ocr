@@ -8,7 +8,7 @@ import postImage from './methods/postImage';
 type ContextState = {
   state: State;
   dispatch: Dispatch<Action>;
-  postImage: (files: FileList, dispatch: Dispatch<Action>) => void;
+  postImage: (image: File, dispatch: Dispatch<Action>) => void;
 };
 
 const initialState = {
