@@ -38,15 +38,19 @@ function App() {
         {state.status === 'loading' && <div>Loading...</div>}
         {state.status === 'error' && (
           <>
+          <div className='d-flex flex-column'>
             <CameraButton />
             <UploadButton />
+          </div>
             <ErrorModal />
           </>
         )}
         {state.status === 'offline' && (
           <>
-            <CameraButton />
-            <UploadButton />
+            <div className='d-flex flex-column'>
+              <CameraButton />
+              <UploadButton />
+            </div>
             <OfflineModal />
           </>
         )}
